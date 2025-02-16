@@ -2,9 +2,9 @@
 title: "What EXACTLY are We Looking at?: Investigating for Discriminance in Ultra-Fine-Grained Visual Categorization Tasks"
 collection: publications
 category: conferences
-permalink: /publication/2023-11-28-Dicta
+permalink: /publication/2023-11-28-number-4
 # excerpt: 'This paper extends the Invertible Concept-based Explainer (ICE) to introduce a new ingredient measuring concept consistency.'
-# date: 2023-11-28
+date: 2023-11-28
 venue: '2023 International Conference on Digital Image Computing: Techniques and Applications (DICTA)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10410929/'
 # slidesurl: 'https://ugoakpudo.com/files/Poster_ICME_Akpudo.pdf'
