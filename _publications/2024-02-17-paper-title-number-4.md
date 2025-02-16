@@ -1,7 +1,7 @@
 ---
 title: "What EXACTLY are We Looking at?: Investigating for Discriminance in Ultra-Fine-Grained Visual Categorization Tasks"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2023-11-28-number-4
 # excerpt: 'This paper extends the Invertible Concept-based Explainer (ICE) to introduce a new ingredient measuring concept consistency.'
 date: 2023-11-28
