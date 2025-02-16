@@ -14,7 +14,9 @@ Education
 **Griffith University** (2022 - 2025)
 *PhD, Artificial Intelligence*
 
-Engaged in full-time research on Explainable AI for Visual Categorization tasks at the [ARC Research Hub for Driving Farming Productivity and Disease Preventiona](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems) under the supervision of Profesors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis). My work involves developing human-understandable explanation frameworks for deep learning algorithms to ensure transparency in real-world computer vision applications.
+Engaged in full-time research on Explainable AI for Visual Categorization tasks at the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems) under the supervision of Profesors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis). 
+
+<!-- My work involves developing human-understandable explanation frameworks for deep learning algorithms to ensure transparency in real-world computer vision applications. -->
 
 **Kumoh National Institute of Technology, South Korea** (2019 - 2021)
 *M. Eng., Mechanical, Aeronautical and Electronic Convergence Engineering*
