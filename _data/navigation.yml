@@ -11,7 +11,7 @@ main:
 
   - title: "Research"
     # url: /publications/
-    url: /https://scholar.google.com/citations?user=trarzuoAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=trarzuoAAAAJ&hl=en
 
   # - title: "Talks"
   #   url: /talks/    
