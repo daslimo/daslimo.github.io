@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
+  name             : "Ugochukwu Akpudo"
   avatar           : "Ugo.png"
-  name             : "Ugochukwu Ejike Akpudo"
   pronouns         : # example: "she/her"  
   bio              : "Explainable AI | Mechanical Engineer"
   location         : "Brisbane, Australia"
