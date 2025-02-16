@@ -8,6 +8,7 @@ date: 2024-07-15
 venue: '2024 IEEE International Conference on Multimedia and Expo (ICME)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10687699'
 slidesurl: 'https://ugoakpudo.com/files/Poster_ICME_Akpudo.pdf'
+codeurl: 'https://ugoakpudo.com/files/Poster_ICME_Akpudo.pdf'
 citation: 'U. E. Akpudo, Y. Gao, J. Zhou and A. Lewis, "Coherentice: Invertible Concept-Based Explainability Framework for CNNs beyond Fidelity," 2024 IEEE International Conference on Multimedia and Expo (ICME), Niagara Falls, ON, Canada, 2024, pp. 1-6, doi: 10.1109/ICME57554.2024.10687699.'
 ---
 
