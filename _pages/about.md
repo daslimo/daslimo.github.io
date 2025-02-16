@@ -7,32 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-Ugochukwu Akpudo is a doctoral reseracher at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers) with over a decade of experience in interdisciplinary research with academic-industrial collaborations in Nigeria, South Korea, Canada and Australia.  received his B.Eng degree in Mechanical and Production Engineering at the Enugu State University of Technology, Nigeria in 2012, and his M.Eng degree in Mechanical, Aeronautical, and Electronic Convergence Engineering at Kumoh National Institute of Technology, South Korea in 2021. Currently, he is an HDR Candidate at Griffith University, Queensland Australia. His experiences span Explainable AI, Deep Learning, Reliability Engineering, Signal/Image Processing, Prognostics and Health Management, and Computer Vision.  
+Hi there! **I am a Research Scientist** at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers) where I build human-undersdtandable explanation frameworks for deep models. More specifically, I conduct research on Explainable AI for Visual Categorization tasks, Ethical AI and Data Governance. My work has been funded by the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems) under the supervision of Profesors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis). Previously, I completed a M.Eng. in Mechanical Engineering at Kumoh National Institute of Technology, South Korea  where I engaged in full-time research at the Defense and Relibility Lab, KIT on Condition-based maintainance (CBM, CBM+) with a focus on data-driven prognostic and health management (PHM) of mechanical, electronic and mechatronic systems. I completed the program with a perfect CGPA of 4.50 out of 4.50.after five years of idustrial experience after my undergraduate studies in Nigeria. My experiences span Explainable AI, Deep Learning, Reliability Engineering, Signal/Image Processing, Prognostics and Health Management, and Computer Vision.  
 
 Education
 ======			
 **Griffith University** (2022 - 2025)
 *PhD, Artificial Intelligence*
 
-Engaged in full-time research on Explainable AI for Visual Categorization tasks at the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems) under the supervision of Profesors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis). 
+<!-- Engaged in full-time research on Explainable AI for Visual Categorization tasks at the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems) under the supervision of Profesors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis).  -->
 
 <!-- My work involves developing human-understandable explanation frameworks for deep learning algorithms to ensure transparency in real-world computer vision applications. -->
 
 **Kumoh National Institute of Technology, South Korea** (2019 - 2021)
 *M. Eng., Mechanical, Aeronautical and Electronic Convergence Engineering*
 
-Engaged in full-time research at the Defense and Relibility Lab, KIT on Condition-based maintainance (CBM, CBM+) with a focus on data-driven prognostic and health management (PHM) of mechanical, electronic and mechatronic systems. Completed the program with a perfect CGPA of 4.50 out of 4.50.
+<!-- Engaged in full-time research at the Defense and Relibility Lab, KIT on Condition-based maintainance (CBM, CBM+) with a focus on data-driven prognostic and health management (PHM) of mechanical, electronic and mechatronic systems. Completed the program with a perfect CGPA of 4.50 out of 4.50. -->
 
 **Enugu State University of Science and Technology (ESUT), Nigeria** (2007 - 2012)
 *B. Eng., Mechanical and Production Engineering*
+<!-- 
+Completed the five-year program with Second Class Upper Division. -->
 
-Completed the five-year program with Second Class Upper Division.
-
-News
+Recent News
 ======
 **[July 2022]** Joined the School of Engineering and Built Environment, Griffith.
 
-
+Recent Blog Post
+======
+**[July 2022]** Joined the School of Engineering and Built Environment, Griffith.
 
 <!-- **Markdown generator**
 
