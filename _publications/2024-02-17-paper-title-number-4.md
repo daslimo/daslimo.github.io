@@ -2,11 +2,12 @@
 title: "Coherentice: Invertible Concept-Based Explainability Framework for CNNs beyond Fidelity"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+permalink: /publication/2024-02-17-CoherentICE
+excerpt: 'This paper extends the Invertible Concept-based Explainer (ICE) to introduce a new ingredient measuring concept consistency.'
 date: 2024-07-15
 venue: '2024 IEEE International Conference on Multimedia and Expo (ICME)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10687699'
+slidesurl: 'Poster_ICME_Akpudo.pdf'
 citation: 'U. E. Akpudo, Y. Gao, J. Zhou and A. Lewis, "Coherentice: Invertible Concept-Based Explainability Framework for CNNs beyond Fidelity," 2024 IEEE International Conference on Multimedia and Expo (ICME), Niagara Falls, ON, Canada, 2024, pp. 1-6, doi: 10.1109/ICME57554.2024.10687699.'
 ---
 
