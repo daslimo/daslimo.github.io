@@ -10,7 +10,8 @@ main:
     url: /year-archive/
 
   - title: "Research"
-    url: /publications/
+    # url: /publications/
+    url: /https://scholar.google.com/citations?user=trarzuoAAAAJ&hl=en
 
   # - title: "Talks"
   #   url: /talks/    
@@ -22,7 +23,7 @@ main:
     url: /portfolio/
         
   - title: "Resume"
-    url: /cv/
+    url: /files/Resume_1page_2024.pdf
     
   # - title: "Guide"
   #   url: /markdown/
