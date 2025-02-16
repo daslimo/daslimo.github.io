@@ -1,0 +1,15 @@
+---
+title: "Panel Discussion: Towards an Inclusive Data Governance Policy for the use of AI in Africa"
+collection: publications
+category: conferences
+permalink: /publication/2024-02-17-dataforpolicy
+# excerpt: 'This paper extends the Invertible Concept-based Explainer (ICE) to introduce a new ingredient measuring concept consistency.'
+date: 2024-07-15
+venue: 'Data for Policy 2022'
+paperurl: 'https://zenodo.org/records/7319284'
+slidesurl: 'https://zenodo.org/records/7324817'
+codeurl: 'https://zenodo.org/records/7323467'
+citation: 'J. O. Effoduh, U. E. Akpudo, and J. D. Kong, “Toward a trustworthy and inclusive data governance policy for the use of artificial intelligence in Africa,” Data & Policy, vol. 6, p. e34, 2024. doi:10.1017/dap.2024.26.'
+---
+
+Sub-Sahara Africa (SSA) reserves some of the world’s oldest cultures and traditions, and with the traces of colonialism still lurking in her sociopolitical affairs, her participation in contributing significantly to achieving sustainable development goals (SDGs) and widespread adoption of artificial intelligence (AI) seem hindered by several factors including her existing conservative/traditional policies. In her quest for adopting these AI technologies, acceptable reliability measures must be put in place (as policies) to ensure that the already-existing class imbalance in SSA communities does not help in the realization of the SDGs; especially data security, and safety, and equitable access to AI technologies for SSA. Trustworthy, safe, and inclusive AI and data policies should be designed amidst the unfortunate SSA’s socio-political ecosystems to ensure equitable access. This brief unveils some vulnerabilities surrounding the use of AI in SSA and promotes equitable access to new technologies in SSA amidst the anxiety around AI and concerns about data governance.
