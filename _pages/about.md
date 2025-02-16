@@ -30,7 +30,7 @@ Completed the five-year program with Second Class Upper Division.
 
 News
 ======
-[**July 2022**] I joined the School of Engineering and Built Environment, Griffith.
+**[July 2022]** Joined the School of Engineering and Built Environment, Griffith.
 
 
 
