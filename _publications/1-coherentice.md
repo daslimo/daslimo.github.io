@@ -3,7 +3,7 @@ title: "Coherentice: Invertible Concept-Based Explainability Framework for CNNs 
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-CoherentICE
-# excerpt: 'This paper extends the Invertible Concept-based Explainer (ICE) to introduce a new ingredient measuring concept consistency.'
+excerpt: 'This paper extends the Invertible Concept-based Explainer (ICE) to introduce a new ingredient measuring concept consistency.'
 date: 2024-07-15
 venue: '2024 IEEE International Conference on Multimedia and Expo (ICME)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10687699'

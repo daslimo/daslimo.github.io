@@ -13,15 +13,15 @@ main:
     url: /publications/
     # url: https://scholar.google.com/citations?user=trarzuoAAAAJ&hl=en
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Projects"
+    url: /portfolio/
+
+  - title: "Talks"
+    url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
-    
-  - title: "Projects"
-    url: /portfolio/
-        
+
   - title: "Resume"
     url: /files/Resume_1page_2024.pdf
     

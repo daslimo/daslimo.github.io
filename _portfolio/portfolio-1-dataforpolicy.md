@@ -12,12 +12,12 @@ AI interventions in Africa present unique ethical issues and risks. Combined wit
 
 --Read <a href="https://zenodo.org/records/7323467">Jake Okechukwu Effoduh's Provocation Statement</a>
 
-Sponsored by Africa-Canada Artificial Intelligence and Data Innovation Consortium (ACADIC), the findings from this project are published thus:
+Sponsored by the <a href="https://acadic.org/">**Africa-Canada Artificial Intelligence and Data Innovation Consortium (ACADIC)**</a>, the findings from this collaboration are published thus:
 
-> U. E. Akpudo, J. O. Effoduh, J. D. Kong, and Y. Gao, "Unveiling AI Concerns for Sub-Saharan Africa and its Vulnerable Groups," 2024 International Conference on Intelligent and Innovative Computing Applications (Vol. 2024, pp. 45–55). Society of Information Technologists and Engineers Ltd. https://doi.org/10.59200/iconic.2024.007, 
+> **U. E. Akpudo**, J. O. Effoduh, J. D. Kong, and Y. Gao, "Unveiling AI Concerns for Sub-Saharan Africa and its Vulnerable Groups," 2024 International Conference on Intelligent and Innovative Computing Applications (Vol. 2024, pp. 45–55). Society of Information Technologists and Engineers Ltd. https://doi.org/10.59200/iconic.2024.007, 
 
-> J. O. Effoduh, U. E. Akpudo, and J. D. Kong, “Toward a trustworthy and inclusive data governance policy for the use of artificial intelligence in Africa,” Data & Policy, vol. 6, p. e34, 2024. doi:10.1017/dap.2024.26.
+> J. O. Effoduh, **U. E. Akpudo**, and J. D. Kong, “Toward a trustworthy and inclusive data governance policy for the use of artificial intelligence in Africa,” Data & Policy, vol. 6, p. e34, 2024. doi:10.1017/dap.2024.26.
 
-> Kong, J.D., Akpudo, U.E., Effoduh, J.O. and Bragazzi, N.L., 2023, February. Leveraging responsible, explainable, and local artificial intelligence solutions for clinical public health in the global south. In Healthcare (Vol. 11, No. 4, p. 457). MDPI.
+> Kong, J.D., **Akpudo, U.E.**, Effoduh, J.O. and Bragazzi, N.L., 2023, February. Leveraging responsible, explainable, and local artificial intelligence solutions for clinical public health in the global south. In Healthcare (Vol. 11, No. 4, p. 457). MDPI.
 
-> Effoduh, Jake Okechukwu and Akpudo, Ugochukwu Ejike and Kong, Jude Dzevela, Towards an Inclusive Data Governance Policy for the Use of Artificial Intelligence in Africa (September 23, 2023). Available at SSRN: https://ssrn.com/abstract=4581619 or http://dx.doi.org/10.2139/ssrn.4581619
+> Effoduh, Jake Okechukwu and Akpudo, **Ugochukwu Ejike** and Kong, Jude Dzevela, Towards an Inclusive Data Governance Policy for the Use of Artificial Intelligence in Africa (September 23, 2023). Available at SSRN: https://ssrn.com/abstract=4581619 or http://dx.doi.org/10.2139/ssrn.4581619.
