@@ -9,12 +9,12 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-theme                    : jekyll-theme-minimal
+# theme                    : jekyll-theme-minimal
 title                    : "Ugo's Homepage"
 title_separator          : "-"
 name                     : &name "Ugochukwu Ejike Akpudo"
 description              : &description "personal description"
-url                      : https://daslimo.github.io/ugoakpudo.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://daslimo.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ugoakpudo.github.io"
 
@@ -30,7 +30,7 @@ author:
   location         : "Brisbane, Australia"
   employer         : "Griffith University"
   uri              : # URL
-  email            : "mail@ugoakpudo.com" 
+  email            : "akpudougo@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
