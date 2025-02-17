@@ -1,16 +1,16 @@
 ---
 title: "Panel Discussion: Towards an Inclusive Data Governance Policy for the use of AI in Africa"
-excerpt: "Honoured to be on a panel discussion at the Data for Policy Conference hosted at the Evans School of Public Policy & Governance, University of Washington on **Towards an Inclusive Data Governance Policy for the use of AI in Africa** alongside Africa-Canada Artificial Intelligence and Data Innovation Consortium (ACADIC) colleagues (Jude Kong and Jake Okechukwu Effoduh), moderated by the International Development Research Centre (IDRC) project officer Chaitali Sinha (she/her).<br/><img src='/images/datafor policy.jpg'> "
+excerpt: "Honoured to be on a panel discussion at the Data for Policy Conference hosted at the Evans School of Public Policy & Governance, University of Washington on <i>Towards an Inclusive Data Governance Policy for the use of AI in Africa<i> alongside Africa-Canada Artificial Intelligence and Data Innovation Consortium (ACADIC) colleagues (Jude Kong and Jake Okechukwu Effoduh), moderated by the International Development Research Centre (IDRC) project officer Chaitali Sinha (she/her).<br/><img src='/images/datafor policy.jpg'> "
 collection: portfolio
 ---
 
-AI interventions in Africa present unique ethical issues and risks. Combined with Africa’s acute socioeconomic and political challenges, the volatile climate, disease outbreaks, food shortages, and civil unrest demonstrate the necessity for AI-enabled innovations. Despite this, AI development and implementation on the continent are not effectively overseen and regulated by formal mechanisms. In an ad hoc implementation, AI is difficult to govern, and innovations are implemented before the risks are fully understood. Africa’s vulnerabilities to a hasty AI adoption demand careful evaluations of trustworthiness, reliability, and equitable access. Our panel discussion centered on unveiling different nuances on these issues and reccommending potential solutions.<br/><img src='/images/datafor policy2.jpg'> 
+My talk centered on the <a href="https://zenodo.org/records/7319284">Provocation Statement: </a> *AI interventions in Africa present unique ethical issues and risks. Combined with Africa’s acute socioeconomic and political challenges, the volatile climate, disease outbreaks, food shortages, and civil unrest demonstrate the necessity for AI-enabled innovations. Despite this, AI development and implementation on the continent are not effectively overseen and regulated by formal mechanisms. In an ad hoc implementation, AI is difficult to govern, and innovations are implemented before the risks are fully understood. Africa’s vulnerabilities to a hasty AI adoption demand careful evaluations of trustworthiness, reliability, and equitable access. Our panel discussion centered on unveiling different nuances on these issues and reccommending potential solutions.*<br/><img src='/images/datafor policy2.jpg'> 
 
---Read <a href="https://zenodo.org/records/7319284">Ugochukwu Akpudo's Provocation Statement</a>
+<!-- --Read <a href="https://zenodo.org/records/7319284">Ugochukwu Akpudo's Provocation Statement</a>
 
 --Read <a href="https://zenodo.org/records/7324817">Jude Dzvela Kong's Provocation Statement</a>
 
---Read <a href="https://zenodo.org/records/7323467">Jake Okechukwu Effoduh's Provocation Statement</a>
+--Read <a href="https://zenodo.org/records/7323467">Jake Okechukwu Effoduh's Provocation Statement</a> -->
 
 Sponsored by the <a href="https://acadic.org/">**Africa-Canada Artificial Intelligence and Data Innovation Consortium (ACADIC)**</a>, the findings from this collaboration are published thus:
 
