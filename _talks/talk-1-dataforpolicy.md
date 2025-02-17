@@ -20,4 +20,4 @@ Sponsored by the <a href="https://acadic.org/">**Africa-Canada Artificial Intell
 
 > Kong, J.D., **Akpudo, U.E.**, Effoduh, J.O. and Bragazzi, N.L., 2023, February. Leveraging responsible, explainable, and local artificial intelligence solutions for clinical public health in the global south. In Healthcare (Vol. 11, No. 4, p. 457). MDPI.
 
-> Effoduh, Jake Okechukwu and Akpudo, **Ugochukwu Ejike** and Kong, Jude Dzevela, Towards an Inclusive Data Governance Policy for the Use of Artificial Intelligence in Africa (September 23, 2023). Available at SSRN: https://ssrn.com/abstract=4581619 or http://dx.doi.org/10.2139/ssrn.4581619.
+> Effoduh, Jake Okechukwu and Akpudo, **Ugochukwu Ejike** and Kong, Jude Dzevela, Towards an Inclusive Data Governance Policy for the Use of Artificial Intelligence in Africa (September 23, 2023). Available at SSRN: https://ssrn.com/abstract=4581619 or http://dx.doi.org/10.2139/ssrn.4581619. 
