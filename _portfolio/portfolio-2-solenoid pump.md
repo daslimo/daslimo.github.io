@@ -1,6 +1,6 @@
 ---
 title: "Intelligent Condition Monitoring Framework For Solenoid Pumps"
-excerpt: "I spearheaded this research between March 2019 and May 2021 as a requirement for fulfilling the requirements of masters (by research) at the Department of Mechanical Engineering (Department of Aeronautics, Mechanical and Electronic Convergence Engineering), Kumoh National Institute of Technology (KIT), Republic of Korea. .<br/><img src='/images/solenoid.png'> "
+excerpt: "I spearheaded this research between March 2019 and May 2021 as a requirement for fulfilling the requirements of masters (by research) at the Department of Mechanical Engineering (Department of Aeronautics, Mechanical and Electronic Convergence Engineering), Kumoh National Institute of Technology (KIT), Republic of Korea. <br/><img src='/images/solenoid.png' style='width:200px'> "
 collection: portfolio
 ---
 
@@ -20,12 +20,21 @@ I and my team discovered different condition monitoring methodologies for gear p
 
 **Selected Journal Publications from the project**
 > U. E. Akpudo and H. Jang-Wook, “A Cost-Efficient MFCC-Based Fault Detection and Isolation Technology for Electromagnetic Pumps," in Electronics, vol. 10, no. 4:439, 2021
+
 > Geon-Hui Lee, U. E. Akpudo and H. Jang-Wook, “FMECA and MFCC-Based Early Wear Detection in Gear Pumps in Cost-Aware Monitoring Systems," in Electronics, 10(23), 2939, 2021.
+
 >U. E. Akpudo and H. Jang-Wook, "MFCC-LLE-SVM*: A Robust Fault Diagnostics Tool for Solenoid Pumps," presented at PHM Korea 2020, vol. 12, no. 3, pp. 188, July 21-23, 2020.
+
 >U. E. Akpudo and H. Jang-Wook, "A Multi-Domain Diagnostics Approach for Solenoid Pumps Based on Discriminative Features," in IEEE Access, vol. 8, pp. 175020-175034, 2020
+
 > U. E. Akpudo and H. Jang-Wook, "An Automated Sensor Fusion Approach for The RUL Prediction of Electromagnetic Pumps," in IEEE Access, vol. 9, pp. 38920-38933, 2021.
+
 > Suju Kim, U. E. Akpudo, and H. Jang-Wook, “A Cost-Aware DNN-Based FDI Technology for Solenoid Pumps," in Electronics, 10, 2323, 2021.
+
 > U. E. Akpudo and H. Jang-Wook, “D-dCNN: A Novel Hybrid Deep Learning-Based Tool for Vibration-Based Diagnostics," in Electronics, 14, 5286, 2021.
+
 > U. E. Akpudo and H. Jang-Wook, "A DNN-Based Fault Detection & Isolation Technology for Solenoid Pumps," presented at The 2021 Korean Society of Mechanical Engineers Spring Conference, PS8-5, June 24-26, 2021.
+
 > U. E. Akpudo and H. Jang-Wook, "Robust FD&I Methodology for Solenoid Pumps based on Discriminative Features," presented at the Eastern European Machine Learning Summer School (EEML), Poland, July 1-9, 2020.
+
 > U. E. Akpudo and H. Jang-Wook, "Intelligent Solenoid Pump Fault Detection based on MFCC Features, LLE and SVM", presented at the Second International Conference on AI in information and Communication (ICAIIC 2020) Fukuoka Japan, hosted by KICS, IEEE Communications Society, and IEICE-CS, February 19-21, 2020
