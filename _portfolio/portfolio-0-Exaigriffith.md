@@ -1,11 +1,11 @@
 ---
 title: "Concept-based Explanation of Deep Visual Categorization Models"
-excerpt: "CNNs lack human-centred explainability in their natural forms, despite their efficiencies. An ongoing project and a requirement for the completion of a PhD at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers), I aim to reveal **what a CNN sees** and not just *where it looked*. <br/><img src='/images/ai_head.png' style='width:200px'> "
+excerpt: "CNNs lack human-centred explainability in their natural forms, despite their efficiencies. An ongoing project and a requirement for the completion of a PhD at The School of Engineering and Built Environment, Griffith University, I aim to reveal **what a CNN sees** and not just *where it looked*. <br/><img src='/images/ai_head.png' style='width:200px'> "
 collection: portfolio
 ---
 
 ![xai](/images/ai_head.png){: .align-right width = "200px} 
-With the supervisions of Professors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis), this project tackles the limitations of conventional CNN explainability techniques—such as GradCAM and EigenCAM—that reveal where a model looked but not what it sees. <br/><img src='/images/concept1.png'>
+With the supervisions of Professors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis) at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers), this project tackles the limitations of conventional CNN explainability techniques—such as GradCAM and EigenCAM—that reveal where a model looked but not what it sees. <br/><img src='/images/concept1.png'>
 
 Traditional methods that use dimensionality reduction on intermediate-layer feature maps aim to uncover human-interpretable concepts; however, they often rely on linear reconstruction assumptions and provide only a limited view of model faithfulness. Specifically, while fidelity measures how accurately the discovered concepts predict outcomes, they do not address the consistency or meaningfulness of these concepts, and the linearity assumption can lead to significant information loss. <br/><img src='/images/concept_graphical.png'>
 

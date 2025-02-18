@@ -7,7 +7,7 @@
 main:
 
   - title: "News"
-    url: /year-archive/
+    url: /markdown/
 
   - title: "Research"
     url: /publications/
@@ -20,7 +20,10 @@ main:
     url: /talks/    
 
   # - title: "Teaching"
-  #   url: /teaching/    
+  #   url: /teaching/  
+
+  # - title: "Blog"
+  #   url: /year-archive/  
 
   - title: "Resume"
     url: /files/Resume_1page_2024.pdf

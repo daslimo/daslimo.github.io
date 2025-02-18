@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! **I am a Research Scientist** at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers) where I build human-undersdtandable explanation frameworks for deep models. More specifically, I conduct research on Explainable AI for Visual Categorization tasks, Ethical AI and Data Governance. My work has been funded by the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems) under the supervision of Profesors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis). Previously, I completed a M.Eng. in Mechanical Engineering at Kumoh National Institute of Technology, South Korea  where I engaged in full-time research at the Defense and Relibility Lab, KIT on Condition-based maintainance (CBM, CBM+) with a focus on data-driven prognostic and health management (PHM) of mechanical, electronic and mechatronic systems. I completed the program with a perfect CGPA of 4.50 out of 4.50.after five years of idustrial experience after my undergraduate studies in Nigeria. My experiences span Explainable AI, Deep Learning, Reliability Engineering, Signal/Image Processing, Prognostics and Health Management, and Computer Vision.  
+Hi there! **I am a Research Scientist** at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers) where I build human-undersdtandable explanation frameworks for deep models. More specifically, I conduct research on Explainable AI for Visual Categorization tasks, Ethical AI and Data Governance. My work has been funded by the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems) under the supervision of Profesors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis). 
+
+Higlights
+======
+Previously, I completed a M.Eng. in Mechanical Engineering at Kumoh National Institute of Technology, South Korea  where I engaged in full-time research at the Defense and Relibility Lab, KIT on Condition-based maintainance (CBM, CBM+) with a focus on data-driven prognostic and health management (PHM) of mechanical, electronic and mechatronic systems. I completed the program with a perfect CGPA of 4.50 out of 4.50 after five years of idustrial experience after my undergraduate studies in Nigeria. My experiences span Explainable AI, Deep Learning, Reliability Engineering, Signal/Image Processing, Prognostics and Health Management, and Computer Vision.  
 
 Education
 ======			
@@ -32,9 +36,9 @@ Recent News
 ======
 **[July 2022]** Joined the School of Engineering and Built Environment, Griffith.
 
-Recent Blog Post
+<!-- Recent Blog Post
 ======
-**[July 2022]** Joined the School of Engineering and Built Environment, Griffith.
+**[July 2022]** Joined the School of Engineering and Built Environment, Griffith. -->
 
 <!-- **Markdown generator**
 

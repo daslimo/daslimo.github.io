@@ -4,7 +4,7 @@ excerpt: "About 30% of greenhouse gas emissions come from diesel engines, which 
 collection: portfolio
 ---
 
-![solenoid pumps](/images/gear.png){: .align-right width = "200px} 
+![solenoid pumps](/images/diesel_grapical.png){: .align-right width = "200px} 
 An injection system is the primary component of a CR diesel (CRD) engine, which comprises the major parts—high-pressure pump (HPP), CR system, fuel injector, and the electronic control unit (ECU). While the injection system is ideally designed to receive pure diesel, the reality is that most diesel fuels contain traces of contaminants which may lead to reduced engine efficiency due to component wear, clogged filters, etc. On another hand, Engine efficiency and reliability are largely determined by fuel composition; however, in recent years, it has become more beneficial to use synthetic fuels rather than traditional petroleum fuels for engines due to volatile fuel prices and strict emission regulations. This has led to increasing interest in emulsion diesel fuels in various configurations to improve fuel quality, reduce emission severity, and reduce costs. As emissions standards are increasingly being enforced, recent developments in the automotive industry aim to increase the power density of mass-produced automotive diesel engines. <br/><img src='/images/diesel_exp.png'>
 
 

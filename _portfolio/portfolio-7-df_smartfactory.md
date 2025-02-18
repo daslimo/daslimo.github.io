@@ -4,10 +4,17 @@ excerpt: "About 30% of greenhouse gas emissions come from diesel engines, which 
 collection: portfolio
 ---
 
+**Overview:**
+The project focused on developing an AI-based system to optimize spray and drying times in a manufacturing process. The project aims to predict optimal process times by analyzing sensor data and operator measurements.
 ![solenoid pumps](/images/Slide29.PNG){: .align-right width = "200px} 
-The project focused on developing an AI-based system to optimize spray and drying times in a manufacturing process. The project aims to predict optimal process times by analyzing sensor data and operator measurements. <br/><img src='/images/Slide35.PNG'>
 
-In collaboration with [Frederico Bertho](https://www.researchgate.net/profile/Federico-Berto-2), we handled outliers and missing values and explored different feature engineering methods to understand the variables. Different AI modeling approaches, including linear regression, XGBoost, and deep neural networks, are explored and compared. The results showed limitations due to data scarcity and low correlations, but the Deep Learning approach showed promising results. <br/><img src='/images/Slide31.PNG'>
+
+**Method:**
+In collaboration with [Frederico Bertho](https://www.researchgate.net/profile/Federico-Berto-2), we handled outliers and missing values and explored different feature engineering methods to understand the variables. 
+ <br/><img src='/images/Slide35.PNG'>
+
+**Findings:**
+Different AI modeling approaches, including linear regression, XGBoost, and deep neural networks, are explored and compared. The results showed limitations due to data scarcity and low correlations, but the Deep Learning approach showed promising results. <br/><img src='/images/Slide31.PNG'>
 
 
 **Sponsors**
