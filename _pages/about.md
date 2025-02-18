@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+![solenoid pumps](/images/smile.jpg){: .align-right width = "200px}
 Hi there! **I am a Research Scientist** at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers) where I build human-undersdtandable explanation frameworks for deep models. More specifically, I conduct research on Explainable AI for Visual Categorization tasks, Ethical AI and Data Governance. My work has been funded by the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems) under the supervision of Profesors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis). 
 
 Higlights
