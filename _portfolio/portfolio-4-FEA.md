@@ -20,5 +20,10 @@ Unlike the conventional design of PEMFC which are metal-based, the elastomeric c
 Our findings helped us draw valid conclusions/recommendations for Pyng Hwa towards improving their gasket production for commercial use. 
 
 **Grants**
+* Grand Information Technology Research support (IITP-2020-2020-0-01612) provided by the MSIT (Ministry of Science and ICT) South Korea (2020 -2021)
+* Korean National Research Foundation of Korea (NRF) grant (No. NRF-2019R1I1A3A01063935) provided by the MSIT (Ministry of Science and ICT) South Korea (2019).
+* Agency for Defense Development grant (UD180018AD) provided by the RAM Specialized Laboratory, South Korea (2019).
+
+**Journal Publication from the project**
 * Kang-Min Cheon, **U. E. Akpudo**, Akeem Bayo Kareem, Okwuosa Chibuzo Nwabufo, and H. Jang-Wook, “An FEA-Assisted Decision-Making Framework for PEMFC Gasket Material Selection," Energies, MDPI, vol. 15(7), pages 1-18, April.
 

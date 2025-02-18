@@ -1,24 +1,19 @@
 ---
-title: "Optimum Gasket Material Selection for PEM Fuel Cells Using Finite Element Analysis"
-excerpt: "The project proposed an informed decision-making framework for remaining compliant with domestic and international standards while also improving performance and extending the life cycles of proton-exchange membrane fuel cells (PEMFC) using Finite Element Analysis (FEA). <br/><img src='/images/pemfc.png' style='width:200px'> "
+title: "Fault Diagnosis of Electal motor"
+excerpt: "The project project aimed at developiing fault disgnostic frameworks for electrical motors. Supervised by Prof. Hur Jang Wook and spearheaded by myself, the team designed test beds, conducted experiments and authored a journal articles. <br/><img src='/images/okw_exp.webp' style='width:200px'> "
 collection: portfolio
 ---
 
 <!-- ![solenoid pumps](/images/gear.png){: .align-right width = "200px}  -->
-Unlike the conventional design of PEMFC which are metal-based, the elastomeric characteristics of rubber gaskets offer superior advantages: maintaining elasticity through high deformations and loading conditions, manufacturing cost efficiency, and zero-leakage sealing (as desired in PEMFC designs). These, in addition to Pyung Hwa Industry Co., Ltd.’s niche for producing durable high-quality seals/gaskets were the major motivation for the research. Silicone Vinyl Methyl Silicone (VMQ), Alkyl Acrylate Copolymer (ACM), nitrile-butadiene rubber (NBR), Fluro-Elastomer (FKM), Ethylene Propylene Diene Terpolymer (EPDM), etc. are some of the common materials used for PEMFC gaskets. While each of these materials have unique (and shared) physical and chemical property advantages like high elastic properties, thermal resistance, and resistance to hydrocarbons and oils, we were posed with the following questions— Which of the popularly available materials should be prioritized during manufacturing? which hyperelastic model(s) should be prioritized for FEA-assisted material selection? How possible is it to design a decision-making paradigm that integrates both factors (based on compatibility) for improved model and material selection? These research questions propelled an eight-month-long project that involved unilateral tensile testing at Pyung Hwa, exhaustive FEA which I spearheaded in our lab, and further empirical analyses by myself to draw meaningful conclusions to guide business decisions at Pyung Hwa while also educating the team members. <br/><img src='/images/pemfc.png'>
+this project focused on developing a data-driven fault diagnostic framework for squirrel cage induction motors (SCIM), which are widely used in industry due to their affordability, durability, and minimal maintenance needs. Early fault detection in SCIMs, especially under low-load conditions, is critical to reducing maintenance costs and preventing unexpected equipment failures.<br/><img src='/images/okw_exp.webp'>
 
+The research leveraged motor current signature analysis (MCSA) to extract spectral features from motor signals for fault detection and isolation (FDI). The proposed framework utilized intelligent classification models to diagnose faults (see figure below) based on these extracted features. <br/><img src='/images/okw_exp2.webp'>
 
- **The major objectives of the project are:**
-* To conduct extensive reviews on PEMFC, rubber material properties, FEA, hyperelastic models, tensile testing, etc.
-* Discovery of and validation of optimal material models (and parameters) between widely-recommended models using FEA-assisted evaluations and tensile testing results.
-* To conduct uniaxial non-destructive tensile testing on different gaskets and digitally collect the stress and strain data
-* To harness the stress and strain data for FEA using different hyperelastic models. This would help to discover their respective Young’s modulus and for further empirical analyses.
-* Proposal of a reliable (and comprehensive) evaluation paradigm for the choice of (and validation) of material model
-* To provide a data-driven paradigm for informed material selection and decision-making.
-* To support continued research-based education in the related domains.
-
-Our findings helped us draw valid conclusions/recommendations for Pyng Hwa towards improving their gasket production for commercial use. 
+Experimental results demonstrated that the extracted features accurately reflected various SCIM fault conditions. Among the tested models, the random forest (RF) classifier achieved the highest accuracy of 79.25%, though it had the highest computational cost of 3.66 seconds. Conversely, the Naive Bayes classifier (NBC) exhibited the lowest computational cost at 0.003 seconds. Additional empirical assessments validated the effectiveness of the proposed FDI technique, highlighting its potential for intelligent monitoring, reduced downtime, and improved operational efficiency in industrial settings.
 
 **Grants**
-* Kang-Min Cheon, **U. E. Akpudo**, Akeem Bayo Kareem, Okwuosa Chibuzo Nwabufo, and H. Jang-Wook, “An FEA-Assisted Decision-Making Framework for PEMFC Gasket Material Selection," Energies, MDPI, vol. 15(7), pages 1-18, April.
+* Grand Information Technology Research support (IITP-2020-2020-0-01612) provided by the MSIT (Ministry of Science and ICT) South Korea (2020 -2021)
+
+**Journal Publication from the project**
+* Okwuosa, C.N.; **Akpudo, U.E.**; Hur, J.-W. A Cost-Efficient MCSA-Based Fault Diagnostic Framework for SCIM at Low-Load Conditions. Algorithms 2022, 15, 212. https://doi.org/10.3390/a15060212
 
