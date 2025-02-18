@@ -36,6 +36,8 @@ Recent News
 ======
 **[July 2022]** Joined the School of Engineering and Built Environment, Griffith.
 
+<a href="https://twitter.com/intent/tweet?button_hashtag=4thsonxhail&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-related="4thsonxhail" data-show-count="false">Tweet #4thsonxhail</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <!-- Recent Blog Post
 ======
 **[July 2022]** Joined the School of Engineering and Built Environment, Griffith. -->
