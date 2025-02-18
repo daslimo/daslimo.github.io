@@ -1,10 +1,10 @@
 ---
 title: "Intelligent Condition Monitoring Framework For Solenoid Pumps"
-excerpt: "I spearheaded this research between March 2019 and May 2021 as a requirement for fulfilling the requirements of masters (by research) at the Department of Mechanical Engineering (Department of Aeronautics, Mechanical and Electronic Convergence Engineering), Kumoh National Institute of Technology (KIT), Republic of Korea. .<br/><img src='/images/datafor policy.jpg'> "
+excerpt: "I spearheaded this research between March 2019 and May 2021 as a requirement for fulfilling the requirements of masters (by research) at the Department of Mechanical Engineering (Department of Aeronautics, Mechanical and Electronic Convergence Engineering), Kumoh National Institute of Technology (KIT), Republic of Korea. .<br/><img src='/images/solenoid.png'> "
 collection: portfolio
 ---
 
-![solenoid pumps](/images/solenoid.png){: .align-right width = "300px} 
+![solenoid pumps](/images/solenoid_raw.png){: .align-right width = "300px} 
 Despite their relatively smaller sizes, solenoid pumps are capable of generating high-pressures for most low-scale and large-scale industrial applications respectively. They operate by a magnetization of the solenoids (electric coils) when electrical current passes through the coil which then causes the electromagnetic core to move against a spring to slide a diaphragm into the discharge position, thereby pumping fluid. The major objectives of the project are:
 * To conduct FMECA on VSC63A5 solenoid pumps and BESCO’s AP3.5/100 external gear pumps
 * To design and simulate test beds for multi-failure mode and run-to-failure tests for fault diagnosis and prognosis respectively for the two pumps types respectively.
