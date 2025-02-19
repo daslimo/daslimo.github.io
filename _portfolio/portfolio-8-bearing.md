@@ -1,6 +1,5 @@
 ---
-title: "Rolling Element Bearing Failure Prognostics and RUL Estimation
-methods for industrial applications"
+title: "Rolling Element Bearing Failure Prognostics and RUL Estimation"
 excerpt: "The project Explores different statistical and machine learning methods for estimating the remaining useful life (RUL) of rolling elemnet bearings. <br/><img src='/images/rul.png' style='width:200px'> "
 collection: portfolio
 ---

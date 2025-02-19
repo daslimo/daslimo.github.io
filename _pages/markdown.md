@@ -64,15 +64,17 @@ redirect_from:
 
 * **[May. 2022]** Received York University International Graduate Research Scholarship, 2022.
 
-* **[April. 2022]** Received [Griffith University International Postgraduate Research Scholarship] (https://www.griffith.edu.au/research-study/scholarships/guiprs) and [Griffith University Postgraduate Research Scholarship](https://www.griffith.edu.au/research-study/scholarships/guprs)
+* **[April. 2022]** Received [Griffith University International Postgraduate Research Scholarship](https://www.griffith.edu.au/research-study/scholarships/guiprs) and [Griffith University Postgraduate Research Scholarship](https://www.griffith.edu.au/research-study/scholarships/guprs)
 
-* **[Feb. 2022]** Received Greydient Project Scholarship with Politecnico de Milano, Italy 2021 (Declined)
+
 
 
 
 ## 2021
 
-* **[Dec 2021]** Received Huddersfield Postgraduate Research Scholarship, UK 2022
+* **[Nov. 2021]** Received Greydient Project Scholarship with Politecnico de Milano, Italy
+
+* **[Dec 2021]** Received Huddersfield Postgraduate Research Scholarship, United Kingdom
 
 * **[Oct 2021]** Received Daewoong Foundation Scholarship
 
@@ -87,9 +89,9 @@ redirect_from:
 
 * **[Nov 2020]** Kwater & UNESCO i-WSSM Capacity Building program on Innovative Technology Applications for Water Security, Deajeon Korea
 
-* **[Aug 2020]** Machine Learning Summer School Indonesia (MLSS-INDO) (2020)
+* **[Aug 2020]** Machine Learning Summer School Indonesia (MLSS-INDO)
 
-* **[Jul 2020]** Eastern European Machine Learning Summer School (2020)
+* **[Jul 2020]** Eastern European Machine Learning Summer School
 
 * **[Feb 2020]** The Second International Conference on AI in information and communication (ICAIIC 2020)
 
