@@ -15,7 +15,7 @@ Higlights
 ======
 🚀**H-Index:** 11
 
-📝**Reviewer for:** [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [IEEE Transactions on Reliability](https://xplorestaging.ieee.org/xpl/aboutJournal.jsp?punumber=24), IEEE [Access](https://ieeeaccess.ieee.org/), etc.
+📝**Reviewer for:** [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [IEEE Transactions on Reliability](https://xplorestaging.ieee.org/xpl/aboutJournal.jsp?punumber=24), [IEEE Access](https://ieeeaccess.ieee.org/), etc.
 
 🏆**Excellent Thesis Award** *awarded by Kumoh National Institute of Technology, Korea (2021)*
 Thesis Topic: **A Sensor Fusion Approach for the Remaining Useful Life Prediction of Solenoid Pumps**
