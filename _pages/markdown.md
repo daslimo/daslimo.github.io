@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-<!-- ## 2025 -->
+## 2025
 
 * **[Feb. 2025]** Served as an Invited Reviewer for the [2025 International Joint Conference on Neural Networks](https://2025.ijcnn.org/)
 
@@ -91,7 +91,7 @@ redirect_from:
 
 * **[Jul 2020]** Eastern European Machine Learning Summer School (2020)
 
-* **[NFeb 2020]** The Second International Conference on AI in information and communication (ICAIIC 2020)
+* **[Feb 2020]** The Second International Conference on AI in information and communication (ICAIIC 2020)
 
 
 ## 2019
@@ -100,7 +100,7 @@ redirect_from:
 
 * **[Jul 2020]** Oral presentation at the 5th International Conference on Materials and Reliability (ICMR 2019)
 
-* **[JAug 2019]** Oral Presentation at the 2019 International UNIMAS STEM 12th Engineering Conference (EnCon 2019) 
+* **[Aug 2019]** Oral Presentation at the 2019 International UNIMAS STEM 12th Engineering Conference (EnCon 2019) 
 
 * **[Feb 2019]** Won the KIT Graduate School Scholarship
 

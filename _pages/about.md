@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ![solenoid pumps](/images/smile.jpg){: .align-right width = "200px}
-Hi there!👋 **I am a Research Scientist** at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers) where I build human-undersdtandable explanation frameworks for deep models. More specifically, I conduct research on 🔎**Explainable AI** for Visual Categorization tasks, 🔓**Ethical AI** and 📝**Data Governance**. My work has been funded by the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems) under the supervision of Profesors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis). 
+Hi there!👋 **I am a Research Scientist** at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers), Australia where I build human-undersdtandable explanation frameworks for deep learning models. More specifically, I conduct research on 🔎**Explainable AI** for Visual Categorization tasks, 🔓**Ethical AI** and 📝**Data Governance**. My work has been funded by the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems) under the supervision of Profesors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis). 
 
 
 Higlights
@@ -21,10 +21,13 @@ Higlights
 Thesis Topic: **A Sensor Fusion Approach for the Remaining Useful Life Prediction of Solenoid Pumps**
 CGPA: 4.50 out of 4.50
 
-🏆Runner Up, **Daewoong Foundation AI & Big Data Hackaton organised by Daewoong Foundation Korea (2021)**
+🏆Runner Up, **Daewoong Foundation AI & Big Data Hackaton organised by Daewoong Foundation Korea (2021)**.
+
 Proposal: **Smart Factory Automation: A correlation-based GA-DNN Model for Smart AC Monitoring and Control**
 
 🔆**Feature Paper:** Akpudo, U.E.; Hur, J.-W. [**"Exploring the Efficiencies of Spectral Isolation for Intelligent Wear Monitoring of Micro Drill Bit Automatic Regrinding In-Line Systems"**](https://www.mdpi.com/1999-4893/15/6), *Algorithms 2022, Vol. 15, Issue 6, p. 194.*
+
+🏋️**Best Paper Awards** at the [ICMR 2019, Jeju Island](http://icmr2019.ksme.or.kr/wp/) and [BK21 Four](http://icmr2019.ksme.or.kr/wp/) Korea.
 
 📢**Research Interests:** Explainable AI, Deep Learning, Signal Processing, Image Processing, Pattern Recognition, Intelligent Monitoring, Condition-Based Maintenance, Object Detection, Computer Vision, Interdisciplinary Research, and their applications to agriculture, mechatronic and mechanical systems, factories, environment, and health.
 

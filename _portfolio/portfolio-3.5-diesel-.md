@@ -1,6 +1,6 @@
 ---
 title: "An Investigation For Optimal Water Composition In Emuslified Diesel Fuel Engines"
-excerpt: "About 30% of greenhouse gas emissions come from diesel engines, which contribute to a variety of health and environmental problems. This project was motivated by the need to discover the optimal diesel emulsion to reduce fuel emmision, maintain engine efficiency and lower costs. . <br/><img src='/images/diesel_grapical.png' style='width:200px'> "
+excerpt: "About 30% of greenhouse gas emissions come from diesel engines, which contribute to a variety of health and environmental problems. This project was motivated by the need to discover the optimal diesel emulsion to reduce fuel emmision, maintain engine efficiency and lower costs. <br/><img src='/images/diesel_grapical.png' style='width:200px'> "
 collection: portfolio
 ---
 
