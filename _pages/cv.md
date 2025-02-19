@@ -7,17 +7,14 @@ redirect_from:
   - /resume
 ---
 
-Click [here](https://x.com/4thsonXhail/media) to request a copy of my complete CV.
+Click [here](https://drive.google.com/file/d/13wqli2oSrhVNtiQ1-m1RBb8pk_SW9KQH/view?usp=sharing) to request a copy of my complete CV.
 
-<!DOCTYPE html>
+
 <html>
-  <head>
-    <title>View my short resume</title>
-  </head>
   <body>
-    <h1>PDF Example by Object Tag</h1>
-    <object data="/files/Ugo Akpudo Resume.pdf" width="100%" height="500px">
-      <p>Unable to display PDF file. <a href="/files/Ugo Akpudo Resume.pdf">Download</a> instead.</p>
+    <h1>Resume</h1>
+    <object data="/files/Ugochukwu Akpudo's Resume.pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="/files/Ugochukwu Akpudo's Resume.pdf">Download</a> instead.</p>
     </object>
   </body>
 </html>
