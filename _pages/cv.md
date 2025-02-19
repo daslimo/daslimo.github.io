@@ -12,8 +12,8 @@ Click [here](https://drive.google.com/file/d/13wqli2oSrhVNtiQ1-m1RBb8pk_SW9KQH/v
 <html>
   <body>
     <h1>Resume</h1>
-    <object data="/files/Ugochukwu Akpudo's Resume (1).pdf" width="100%">
-      <p>Unable to display PDF file. <a href="/files/Ugochukwu Akpudo's Resume (1).pdf">Download</a> instead.</p>
+    <object data="/files/Ugochukwu Akpudo's Resume.pdf" width="100%">
+      <p>Unable to display PDF file. <a href="/files/Ugochukwu Akpudo's Resume.pdf">Download</a> instead.</p>
     </object>
   </body>
 </html>
