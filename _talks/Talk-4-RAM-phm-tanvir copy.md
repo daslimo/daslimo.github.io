@@ -8,6 +8,7 @@ location: "Gumi, South Korea"
 ---
 
 *My lectures centered on practical appreoaches to data-driven prognostics and health management of mechanical, electrical and electronic components.*
+
 **Topic**: A Workshop on Data-Driven PHM Methodologies- A Hands-on Application
 <br/><img src='/images/lecture1.jpg'> 
 

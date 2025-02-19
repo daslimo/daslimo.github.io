@@ -8,6 +8,7 @@ location: "Gumi, South Korea"
 ---
 
 *My lectures centered on practical appreoaches to data-driven prognostics and health management of mechanical, electrical and electronic components.*
+
 **Topic**: A workshop on Solenoid Pump Fault Detection and Isolation (FDI)- A practical Approach
 
 <br/><img src='/images/lecture 2.jpg'> 

@@ -9,7 +9,7 @@ location: "SGold Coast, Australia"
 
 *My pitch aimed at proposing Explainable and Ethical AI models for Visual Categorization Tasks in different insustries spanning Healthcare, STEM industries, etc.*
 
-<br/><img src='/images/hackaton.jpg'> 
+<!-- <br/><img src='/images/hackaton.jpg'>  -->
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s one thing to hear people’s ideas. <br>It’s another to thing to help them materialize them or at least bring them to a methodically valid conclusion. <br>I realized that listening attentively often gets the job done half the way… and that’s a strength I seek in a leader <a href="https://t.co/cjiWDP017C">pic.twitter.com/cjiWDP017C</a></p>&mdash; Fourth (@4thsonXhail) <a href="https://twitter.com/4thsonXhail/status/1850458016916886004?ref_src=twsrc%5Etfw">October 27, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

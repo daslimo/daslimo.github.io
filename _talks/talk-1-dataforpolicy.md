@@ -8,7 +8,9 @@ location: "Seatle, USA"
 ---
 
 My talk centered on the <a href="https://zenodo.org/records/7319284">Provocation Statement: </a> *AI interventions in Africa present unique ethical issues and risks. Combined with Africa’s acute socioeconomic and political challenges, the volatile climate, disease outbreaks, food shortages, and civil unrest demonstrate the necessity for AI-enabled innovations. Despite this, AI development and implementation on the continent are not effectively overseen and regulated by formal mechanisms. In an ad hoc implementation, AI is difficult to govern, and innovations are implemented before the risks are fully understood. Africa’s vulnerabilities to a hasty AI adoption demand careful evaluations of trustworthiness, reliability, and equitable access. Our panel discussion centered on unveiling different nuances on these issues and reccommending potential solutions.*
+
 <br/><img src='/images/datafor policy.jpg'> 
+
 <br/><img src='/images/datafor policy2.jpg'> 
 
 <!-- --Read <a href="https://zenodo.org/records/7319284">Ugochukwu Akpudo's Provocation Statement</a>

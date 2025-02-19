@@ -1,10 +1,10 @@
 ---
 title: "Intelligent Condition Monitoring Framework For Solenoid Pumps"
-excerpt: "Under Prof. Hur Jang-Wook's supervision, I spearheaded this project between March 2019 and May 2021 as a requirement for fulfilling the requirements of masters (by research) at the Department of Mechanical Engineering (Department of Aeronautics, Mechanical and Electronic Convergence Engineering), Kumoh National Institute of Technology (KIT), Republic of Korea. <br/><img src='/images/solenoid.png' style='width:200px'> "
+excerpt: "Under Prof. Hur Jang-Wook's supervision, I spearheaded this project between March 2019 and May 2021 as a requirement for fulfilling the requirements of masters (by research) at the Department of Mechanical Engineering (Department of Aeronautics, Mechanical and Electronic Convergence Engineering), Kumoh National Institute of Technology (KIT), Republic of Korea. <br/><img src='/images/solenoid_raw.png' style='width:200px'> "
 collection: portfolio
 ---
 
-![solenoid pumps](/images/solenoid_raw.png){: .align-right width = "200px} 
+![solenoid pumps](/images/EEML Teaser.png){: .align-right width = "200px} 
 Despite their relatively smaller sizes, solenoid pumps are capable of generating high-pressures for most low-scale and large-scale industrial applications respectively. They operate by a magnetization of the solenoids (electric coils) when electrical current passes through the coil which then causes the electromagnetic core to move against a spring to slide a diaphragm into the discharge position, thereby pumping fluid. 
 
 **The major objectives of the project are:**

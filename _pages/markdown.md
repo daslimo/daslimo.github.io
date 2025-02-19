@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## 2025
+<!-- ## 2025 -->
 
 * **[Feb. 2025]** Served as an Invited Reviewer for the [2025 International Joint Conference on Neural Networks](https://2025.ijcnn.org/)
 
@@ -66,14 +66,7 @@ redirect_from:
 
 * **[April. 2022]** Received [Griffith University International Postgraduate Research Scholarship] (https://www.griffith.edu.au/research-study/scholarships/guiprs) and [Griffith University Postgraduate Research Scholarship](https://www.griffith.edu.au/research-study/scholarships/guprs)
 
-* **[MFeb. 2022]** Received Greydient Project Scholarship with Politecnico de Milano, Italy 2021 (Declined)
-
-
-
-
-
-
-
+* **[Feb. 2022]** Received Greydient Project Scholarship with Politecnico de Milano, Italy 2021 (Declined)
 
 
 
@@ -83,27 +76,39 @@ redirect_from:
 
 * **[Oct 2021]** Received Daewoong Foundation Scholarship
 
+* **[April 2020]** Best Paper Award from Brain Korea 21 (BK21) and Kumoh National Institute of Technology, Korea
+
 * **[Jan 2021]** Tutor, DRL First Winter Workshop organised by Defense Reliability Laboratory, Kumoh National Institute of Technology, South Korea
 
 
 ## 2020
 
-10.	Kwater & UNESCO i-WSSM Fall Program on Water Management – Renewable Energy (2020)
-11.	Kwater & UNESCO i-WSSM Capacity Building program on Innovative Technology Applications for Water Security (2020)
-12.	Machine Learning Summer School Indonesia (MLSS-INDO) (2020)
-13.	Eastern European Machine Learning Summer School (2020)
-14.	KIT Graduate School Scholarship (2019)
-15.	Defense Reliability Lab Graduate School Scholarship (2019)
+* **[Nov 2020]** Participated in the Kwater & UNESCO i-WSSM Fall Program on Water Management – Renewable Energy, Deajeon Korea
 
-bEST PAPER AWARD icmr
+* **[Nov 2020]** Kwater & UNESCO i-WSSM Capacity Building program on Innovative Technology Applications for Water Security, Deajeon Korea
 
-mALAYSIS
+* **[Aug 2020]** Machine Learning Summer School Indonesia (MLSS-INDO) (2020)
 
+* **[Jul 2020]** Eastern European Machine Learning Summer School (2020)
+
+* **[NFeb 2020]** The Second International Conference on AI in information and communication (ICAIIC 2020)
 
 
-Japan Conference
+## 2019
 
-Brisbanr conference
+* **[Jul 2020]** Best Paper Award from the 5th International Conference on Materials and Reliability (ICMR 2019)
+
+* **[Jul 2020]** Oral presentation at the 5th International Conference on Materials and Reliability (ICMR 2019)
+
+* **[JAug 2019]** Oral Presentation at the 2019 International UNIMAS STEM 12th Engineering Conference (EnCon 2019) 
+
+* **[Feb 2019]** Won the KIT Graduate School Scholarship
+
+* **[Feb 2019]** Won the Defense Reliability Lab Graduate School Scholarship
+
+
+
+<!-- Brisbanr conference
 PHM KOREA
 KPSM
 ASIA PACIFIC CONFERENCE PHM
@@ -112,4 +117,4 @@ Dec. 2020	Tutor, DRL Second Summer Workshop organised by Defense Reliability Lab
 	Topic: A workshop on Solenoid Pump Fault Detection and Isolation (FDI)- A practical Approach
 
 Dec. 2019	Tutor, A workshop on Neural Networks and its Applications
-	Topic: Deep Leaning-based Prognostics Framework for Rolling Element Bearings
+	Topic: Deep Leaning-based Prognostics Framework for Rolling Element Bearings -->
