@@ -8,36 +8,55 @@ redirect_from:
 ---
 
 ![solenoid pumps](/images/smile.jpg){: .align-right width = "200px}
-Hi there! **I am a Research Scientist** at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers) where I build human-undersdtandable explanation frameworks for deep models. More specifically, I conduct research on Explainable AI for Visual Categorization tasks, Ethical AI and Data Governance. My work has been funded by the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems) under the supervision of Profesors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis). 
+Hi there!👋 **I am a Research Scientist** at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers) where I build human-undersdtandable explanation frameworks for deep models. More specifically, I conduct research on Explainable AI for Visual Categorization tasks, Ethical AI and Data Governance. My work has been funded by the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems) under the supervision of Profesors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis). 
+
 
 Higlights
 ======
-Previously, I completed a M.Eng. in Mechanical Engineering at Kumoh National Institute of Technology, South Korea  where I engaged in full-time research at the Defense and Relibility Lab, KIT on Condition-based maintainance (CBM, CBM+) with a focus on data-driven prognostic and health management (PHM) of mechanical, electronic and mechatronic systems. I completed the program with a perfect CGPA of 4.50 out of 4.50 after five years of idustrial experience after my undergraduate studies in Nigeria. My experiences span Explainable AI, Deep Learning, Reliability Engineering, Signal/Image Processing, Prognostics and Health Management, and Computer Vision.  
+🚀**H-Index:** 11
+
+📝**Reviewer for:** IEEE TPAMI, IEEE Transactions on Reliability, IEEE Access, etc.
+
+🏆**Excellent Thesis Award** *awarded by Kumoh National Institute of Technology, Korea (2021)*
+Thesis Topic: **A Sensor Fusion Approach for the Remaining Useful Life Prediction of Solenoid Pumps**
+CGPA: 4.50 out of 4.50
+
+🏆Runner Up, **Daewoong Foundation AI & Big Data Hackaton organised by Daewoong Foundation Korea (2021)**
+Proposal: **Smart Factory Automation: A correlation-based GA-DNN Model for Smart AC Monitoring and Control**
+
+🔆**Feature Paper:** Akpudo, U.E.; Hur, J.-W. **"Exploring the Efficiencies of Spectral Isolation for Intelligent Wear Monitoring of Micro Drill Bit Automatic Regrinding In-Line Systems"**, *Algorithms 2022, Vol. 15, Issue 6, p. 194.*
+
+📢**Research Interests:** Explainable AI, Deep Learning, Signal Processing, Image Processing, Pattern Recognition, Intelligent Monitoring, Condition-Based Maintenance, Object Detection, Computer Vision, Interdisciplinary Research, and their applications to agriculture, mechatronic and mechanical systems, factories, environment, and health.
+
 
 Education
 ======			
-**Griffith University** (2022 - 2025)
+🌍**Griffith University** (2022 - 2025)
 *PhD, Artificial Intelligence*
 
 <!-- Engaged in full-time research on Explainable AI for Visual Categorization tasks at the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems) under the supervision of Profesors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis).  -->
 
 <!-- My work involves developing human-understandable explanation frameworks for deep learning algorithms to ensure transparency in real-world computer vision applications. -->
 
-**Kumoh National Institute of Technology, South Korea** (2019 - 2021)
+🌴**Kumoh National Institute of Technology, South Korea** (2019 - 2021)
 *M. Eng., Mechanical, Aeronautical and Electronic Convergence Engineering*
 
 <!-- Engaged in full-time research at the Defense and Relibility Lab, KIT on Condition-based maintainance (CBM, CBM+) with a focus on data-driven prognostic and health management (PHM) of mechanical, electronic and mechatronic systems. Completed the program with a perfect CGPA of 4.50 out of 4.50. -->
 
-**Enugu State University of Science and Technology (ESUT), Nigeria** (2007 - 2012)
+🌱**Enugu State University of Science and Technology (ESUT), Nigeria** (2007 - 2012)
 *B. Eng., Mechanical and Production Engineering*
 <!-- 
 Completed the five-year program with Second Class Upper Division. -->
 
-Recent News
+Recent Tweet
 ======
-**[July 2022]** Joined the School of Engineering and Built Environment, Griffith.
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=4thsonxhail&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-related="4thsonxhail" data-show-count="false">Tweet #4thsonxhail</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/4thsonXhail?ref_src=twsrc%5Etfw">Tweets by 4thsonXhail</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7287946978724876288" height="1128" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
 
 <!-- Recent Blog Post
 ======
