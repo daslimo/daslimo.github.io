@@ -1,13 +1,34 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Click [here](https://x.com/4thsonXhail/media) to request a copy of my complete CV.
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>View my short resume</title>
+  </head>
+  <body>
+    <h1>PDF Example by Object Tag</h1>
+    <object data="/files/Ugo Akpudo Resume.pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="/files/Ugo Akpudo Resume.pdf">Download</a> instead.</p>
+    </object>
+  </body>
+</html>
+
+
+
+
+
+
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -61,4 +82,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
