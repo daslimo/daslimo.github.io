@@ -1,13 +1,19 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
-collection: talks
-type: "Talk"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+title: "🎙️Pitch: Smart Factory Automation"
+excerpt: "Pitched my proposal **Smart Factory Automation: A correlation-based GA-DNN Model for Smart AC Monitoring and Control** at the Daewoong Foundation AI & Big Data Hackaton organised by Daewoong Foundation."
+collection: portfolio
+venue: "Daewoong Pharmaceuticals"
+date: 2021-11-18
+location: "Seoul, South Korea"
 ---
 
-[More information here](http://example2.com)
+*My pitch aimed at proposing an AI- based control system that goes through humidity (dehumidification/humidification) and temperature (heating/cooling) processes to keep the temperature and humidity of the air supplied to the factory constant.*
+**Topic**: Smart Factory Automation: A correlation-based GA-DNN Model for Smart AC Monitoring and Control
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+<br/><img src='/images/hackaton.jpg'> 
+
+<!-- --Read <a href="https://zenodo.org/records/7319284">Ugochukwu Akpudo's Provocation Statement</a>
+
+--Read <a href="https://zenodo.org/records/7324817">Jude Dzvela Kong's Provocation Statement</a>
+
+--Read <a href="https://zenodo.org/records/7323467">Jake Okechukwu Effoduh's Provocation Statement</a> -->
