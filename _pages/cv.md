@@ -9,7 +9,6 @@ redirect_from:
 
 Click [here](https://drive.google.com/file/d/13wqli2oSrhVNtiQ1-m1RBb8pk_SW9KQH/view?usp=sharing) to request a copy of my complete CV.
 
-
 <html>
   <body>
     <h1>Resume</h1>
