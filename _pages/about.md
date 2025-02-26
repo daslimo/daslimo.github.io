@@ -25,13 +25,13 @@ CGPA: 4.50 out of 4.50
 
  🌱**Founder**, [FS-NextGen Lounge](https://www.youtube.com/@fourthsonugo): a community-based initiative for educating and promoting the use of AI and inclusive AI acceptance in Africa. We host live FREE workshops every month on AI and Machine Learning, scholarships, data analytics, knowledge sharing, etc.
 
-🏆Runner Up, **Daewoong Foundation AI & Big Data Hackaton organised by Daewoong Foundation Korea (2021)**. *Proposal*: **Smart Factory Automation: A correlation-based GA-DNN Model for Smart AC Monitoring and Control**
+🏆Runner Up, **Daewoong Foundation AI & Big Data Hackaton** organised by Daewoong Foundation Korea (2021). *Proposal*: **Smart Factory Automation: A correlation-based GA-DNN Model for Smart AC Monitoring and Control**
 
 🔆**Feature Paper:** Akpudo, U.E.; Hur, J.-W. [**"Exploring the Efficiencies of Spectral Isolation for Intelligent Wear Monitoring of Micro Drill Bit Automatic Regrinding In-Line Systems"**](https://www.mdpi.com/1999-4893/15/6), *Algorithms 2022, Vol. 15, Issue 6, p. 194.*
 
 🏋️**Best Paper Awards** at the [ICMR 2019, Jeju Island](http://icmr2019.ksme.or.kr/wp/) and [BK21 Four](http://icmr2019.ksme.or.kr/wp/) Korea.
 
-📢**Research Interests:** Explainable AI, Deep Learning, Signal Processing, Image Processing, Pattern Recognition, Intelligent Monitoring, Condition-Based Maintenance, Object Detection, Computer Vision, Interdisciplinary Research, and their applications to agriculture, mechatronic and mechanical systems, factories, environment, and health.
+📢**Research Interests:** Explainable AI, Deep Learning, Signal Processing, Image Processing, Pattern Recognition, Intelligent Monitoring, Condition-Based Maintenance, Object Detection, Computer Vision, Interdisciplinary Research, and their applications to Agriculture, Mechatronic and Mechanical Systems, Factories, Environment, and Health.
 
 
 Education

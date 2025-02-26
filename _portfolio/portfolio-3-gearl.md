@@ -1,6 +1,6 @@
 ---
 title: "FMECA and Intelligent Fault Diagnostics of Gear Pumps"
-excerpt: "Under Prof. Hur Jang-Wook's supervision, I collaborated with a team member as a requirement for him fulfilling the requirements of masters (by research) at the Department of Mechanical Engineering (Department of Aeronautics, Mechanical and Electronic Convergence Engineering), Kumoh National Institute of Technology (KIT), Republic of Korea. <br/><img src='/images/gear_exp.png' style='width:200px'> "
+excerpt: "Under Prof. Hur Jang-Wook's supervision, I collaborated with a team member as part of his Masters (by research) requirements at the Department of Mechanical Engineering (Department of Aeronautics, Mechanical and Electronic Convergence Engineering), Kumoh National Institute of Technology (KIT), Republic of Korea. <br/><img src='/images/gear_exp.png' style='width:200px'> "
 collection: portfolio
 ---
 

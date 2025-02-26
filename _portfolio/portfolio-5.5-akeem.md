@@ -1,6 +1,6 @@
 ---
 title: "Fault Diagnosis of Electronic Components: Switch-mode AC/DC power supply"
-excerpt: "The project project aimed at developiing fault disgnostic frameworks for electronic (capacitors, etc) components. Supervised by Prof. Hur Jang Wook and spearheaded by myself, the team designed test beds, conducted experiments and authored a journal articles. <br/><img src='/images/AKEEM1.webp' style='width:200px'> "
+excerpt: "The project aimed at developiing fault disgnostic frameworks for electronic (capacitors, etc) components. Supervised by Prof. Hur Jang Wook and spearheaded by myself, the team designed test beds, conducted experiments and authored a journal articles. <br/><img src='/images/AKEEM1.webp' style='width:200px'> "
 collection: portfolio
 ---
 

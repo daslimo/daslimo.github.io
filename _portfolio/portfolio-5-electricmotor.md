@@ -1,11 +1,11 @@
 ---
 title: "Fault Diagnosis of Electal motor"
-excerpt: "The project project aimed at developiing fault disgnostic frameworks for electrical motors. Supervised by Prof. Hur Jang Wook and spearheaded by myself, the team designed test beds, conducted experiments and authored a journal articles. <br/><img src='/images/okw_exp.webp' style='width:200px'> "
+excerpt: "The project aimed at developiing fault disgnostic frameworks for electrical motors. Supervised by Prof. Hur Jang Wook and spearheaded by myself, the team designed test beds, conducted experiments and authored a journal articles. <br/><img src='/images/okw_exp.webp' style='width:200px'> "
 collection: portfolio
 ---
 
 <!-- ![solenoid pumps](/images/gear.png){: .align-right width = "200px}  -->
-this project focused on developing a data-driven fault diagnostic framework for squirrel cage induction motors (SCIM), which are widely used in industry due to their affordability, durability, and minimal maintenance needs. Early fault detection in SCIMs, especially under low-load conditions, is critical to reducing maintenance costs and preventing unexpected equipment failures.<br/><img src='/images/okw_exp.webp'>
+This project focused on developing a data-driven fault diagnostic framework for squirrel cage induction motors (SCIM), which are widely used in industry due to their affordability, durability, and minimal maintenance needs. Early fault detection in SCIMs, especially under low-load conditions, is critical to reducing maintenance costs and preventing unexpected equipment failures.<br/><img src='/images/okw_exp.webp'>
 
 The research leveraged motor current signature analysis (MCSA) to extract spectral features from motor signals for fault detection and isolation (FDI). The proposed framework utilized intelligent classification models to diagnose faults (see figure below) based on these extracted features. <br/><img src='/images/okw_exp2.webp'>
 
