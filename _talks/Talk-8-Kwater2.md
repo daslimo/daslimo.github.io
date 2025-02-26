@@ -1,5 +1,5 @@
 ---
-title: "🎙️AI-Driven Innovations in Water Security"
+title: "🎙️AI-Powered Disaster Resilience & Climate Adaptation"
 excerpt: "Addressed AI’s role in early disaster warning systems, climate adaptation strategies, and risk mitigation. Showcased case studies on AI-driven sustainable urban water systems."
 collection: portfolio
 venue: "KWater Academy"
