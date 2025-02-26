@@ -19,7 +19,7 @@ My talk centered on the <a href="https://zenodo.org/records/7319284">Provocation
 
 --Read <a href="https://zenodo.org/records/7323467">Jake Okechukwu Effoduh's Provocation Statement</a> -->
 
-Sponsored by the <a href="https://acadic.org/">**Africa-Canada Artificial Intelligence and Data Innovation Consortium (ACADIC)**</a>, the findings from this collaboration are published thus:
+Sponsored by the <a href="https://acadic.org/">**Africa-Canada Artificial Intelligence and Data Innovation Consortium (ACADIC)**</a>, the proceeedings from this conference can be found <a href="https://zenodo.org/records/8273618/files/Data%20for%20Policy%202022%20Seattle%20programme.pdf?download=1">here</a>. Our findings from this collaboration are published thus:
 
 > **U. E. Akpudo**, J. O. Effoduh, J. D. Kong, and Y. Gao, "Unveiling AI Concerns for Sub-Saharan Africa and its Vulnerable Groups," 2024 International Conference on Intelligent and Innovative Computing Applications (Vol. 2024, pp. 45–55). Society of Information Technologists and Engineers Ltd. https://doi.org/10.59200/iconic.2024.007, 
 

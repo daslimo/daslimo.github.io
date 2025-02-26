@@ -5,14 +5,14 @@ collection: portfolio
 ---
 
 <!-- ![xai](/images/ai_head.png){: .align-right width = "200px}  -->
-With the supervisions of Professors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis) at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers), this project tackles the limitations of conventional CNN explainability techniques—such as GradCAM and EigenCAM—that reveal where a model looked but not what it sees. <br/><img src='/images/concept1.png'>
+With the supervisions of Professors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis) at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers), this project tackles the limitations of conventional CNN explainability techniques—such as GradCAM and EigenCAM—that reveal *where a model looked* but not what it sees. <br/><img src='/images/concept1.png'>
 
 Traditional methods that use dimensionality reduction on intermediate-layer feature maps aim to uncover human-interpretable concepts; however, they often rely on linear reconstruction assumptions and provide only a limited view of model faithfulness. Specifically, while fidelity measures how accurately the discovered concepts predict outcomes, they do not address the consistency or meaningfulness of these concepts, and the linearity assumption can lead to significant information loss. <br/><img src='/images/concept_graphical.png'>
 
-To address these challenges, the project introduces several frameworks published at top-tier conferences and a few more underway in A* (CORE Ranking) journals and conference. These frameworks collectively aim to provide more meaningful, consistent, and insightful explanations of CNN behavior. 
+To address these challenges, the project introduces several frameworks published at top-tier conferences and a few more underway in A* (CORE Ranking) journals and conferences. These frameworks collectively aim to provide more meaningful, consistent, and insightful explanations of CNN logic. 
 
 **Grants and Sponsors**
-* [Griffith University International Postgraduate Research Scholarship] (https://www.griffith.edu.au/research-study/scholarships/guiprs)
+* [Griffith University International Postgraduate Research Scholarship](https://www.griffith.edu.au/research-study/scholarships/guiprs)
 * [Griffith University Postgraduate Research Scholarship](https://www.griffith.edu.au/research-study/scholarships/guprs)
 * Australian Research Council (ARC) Centre Program IH180100002, “ARC Research Hub for Driving Farming Productivity and Disease Prevention” (2019-2024), Lead Chief Investigator & Director: [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao) together with 21 Chief Investigators and Partner Investigators from 6 universities, [CSIRO](https://www.csiro.au/), and 5 industry partners.
 * [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity)

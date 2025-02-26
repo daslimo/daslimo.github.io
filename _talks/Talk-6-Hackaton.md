@@ -14,8 +14,8 @@ location: "Seoul, South Korea"
 
 <br/><img src='/images/hackaton.jpg'> 
 
-<!-- --Read <a href="https://zenodo.org/records/7319284">Ugochukwu Akpudo's Provocation Statement</a>
+<br/><img src='/images/hack0.jpg'> 
 
---Read <a href="https://zenodo.org/records/7324817">Jude Dzvela Kong's Provocation Statement</a>
 
---Read <a href="https://zenodo.org/records/7323467">Jake Okechukwu Effoduh's Provocation Statement</a> -->
+
+

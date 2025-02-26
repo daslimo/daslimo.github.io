@@ -7,6 +7,7 @@ collection: portfolio
 Vibration signals from the equipment's frame and high-speed grinding wheels are analyzed to capture the health status of the grinding wheel. A spectral isolation technique is employed as a preprocessing step to retain only the critical spectral segments, thereby enhancing diagnostic accuracy while reducing computational costs. <br/><img src='/images/wear2.webp'>
 
 Artificial intelligence-based models, including one-dimensional convolutional neural networks (1D-CNN) and multi-layer perceptron (MLP) neural networks, are used to learn and classify the discriminant spectral features. Experimental results indicate that spectral isolation improves diagnostic accuracy by 4.6% with 1D-CNNs and by 7.5% with MLPs, while also reducing computational costs by approximately 1.3% and 5.71%, respectively.
+<br/><img src='/images/microphoto.jpg'>
 
 
 **Grants and Sponsors**
