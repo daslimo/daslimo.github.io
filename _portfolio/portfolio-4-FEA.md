@@ -5,7 +5,17 @@ collection: portfolio
 ---
 
 <!-- ![solenoid pumps](/images/gear.png){: .align-right width = "200px}  -->
-Unlike the conventional design of PEMFC which are metal-based, the elastomeric characteristics of rubber gaskets offer superior advantages: maintaining elasticity through high deformations and loading conditions, manufacturing cost efficiency, and zero-leakage sealing (as desired in PEMFC designs). These, in addition to Pyung Hwa Industry Co., Ltd.’s niche for producing durable high-quality seals/gaskets were the major motivation for the research. Silicone Vinyl Methyl Silicone (VMQ), Alkyl Acrylate Copolymer (ACM), nitrile-butadiene rubber (NBR), Fluro-Elastomer (FKM), Ethylene Propylene Diene Terpolymer (EPDM), etc. are some of the common materials used for PEMFC gaskets. While each of these materials have unique (and shared) physical and chemical property advantages like high elastic properties, thermal resistance, and resistance to hydrocarbons and oils, we were posed with the following questions— Which of the popularly available materials should be prioritized during manufacturing? which hyperelastic model(s) should be prioritized for FEA-assisted material selection? How possible is it to design a decision-making paradigm that integrates both factors (based on compatibility) for improved model and material selection? These research questions propelled an eight-month-long project that involved unilateral tensile testing at Pyung Hwa, exhaustive FEA which I spearheaded in our lab, and further empirical analyses by myself to draw meaningful conclusions to guide business decisions at Pyung Hwa while also educating the team members. <br/><img src='/images/pemfc.png'>
+Unlike the conventional design of PEMFC which are metal-based, the elastomeric characteristics of rubber gaskets offer superior advantages: maintaining elasticity through high deformations and loading conditions, manufacturing cost efficiency, and zero-leakage sealing (as desired in PEMFC designs). These, in addition to Pyung Hwa Industry Co., Ltd.’s niche for producing durable high-quality seals/gaskets were the major motivation for the research. 
+
+Silicone Vinyl Methyl Silicone (VMQ), Alkyl Acrylate Copolymer (ACM), nitrile-butadiene rubber (NBR), Fluro-Elastomer (FKM), Ethylene Propylene Diene Terpolymer (EPDM), etc. are some of the common materials used for PEMFC gaskets. While each of these materials have unique (and shared) physical and chemical property advantages like high elastic properties, thermal resistance, and resistance to hydrocarbons and oils, we were posed with the following questions— 
+
+* Which of the popularly available materials should be prioritized during manufacturing? 
+
+* Which hyperelastic model(s) should be prioritized for FEA-assisted material selection?
+
+* How possible is it to design a decision-making paradigm that integrates both factors (based on compatibility) for improved model and material selection? 
+
+These research questions propelled an eight-month-long project with [Pyung Hwa Industry Co., Ltd., Korea](http://www.ph.co.kr/eng/company/family_1_1.asp) that involved unilateral tensile testing at Pyung Hwa, exhaustive FEA which I spearheaded in our lab, and further empirical analyses by myself to draw meaningful conclusions to guide business decisions at Pyung Hwa while also educating the team members. <br/><img src='/images/pemfc.png'>
 
 
  **The major objectives of the project are:**

@@ -1,5 +1,5 @@
 ---
-title: "Fault Diagnosis of Electal motor"
+title: "Fault Diagnosis of Electrical motor"
 excerpt: "The project aimed at developiing fault disgnostic frameworks for electrical motors. Supervised by Prof. Hur Jang Wook and spearheaded by myself, the team designed test beds, conducted experiments and authored a journal articles. <br/><img src='/images/okw_exp.webp' style='width:200px'> "
 collection: portfolio
 ---
