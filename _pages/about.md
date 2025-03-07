@@ -23,9 +23,9 @@ Higlights
 Thesis Topic: **A Sensor Fusion Approach for the Remaining Useful Life Prediction of Solenoid Pumps**.
 CGPA: 4.50 out of 4.50
 
- 🌱Founder, [**FS-NextGen Lounge**](https://www.youtube.com/@fourthsonugo): a community-based initiative for educating and promoting the use of AI and inclusive AI acceptance in Africa. We host live FREE workshops every month on AI and Machine Learning, scholarships, data analytics, knowledge sharing, etc.
+ 🌱**Founder**, [**FS-NextGen Lounge**](https://www.youtube.com/@fourthsonugo): a community-based initiative for educating and promoting the use of AI and inclusive AI acceptance in Africa. We host live FREE workshops every month on AI and Machine Learning, scholarships, data analytics, knowledge sharing, etc.
 
-🤝**Academic-industry engagment** [with Hanwa Systems Korea](https://ugoakpudo.com//talks/talk-3-RAM-Diesel/), [Instern Co. Ltd. Korea](https://ugoakpudo.com//publication/2015-10-01-paper-title-number-3), [ACADIC Canada](https://ugoakpudo.com//talks/talk-1-dataforpolicy/), [Daewoong Pharmaceuticals Korea](https://ugoakpudo.com//portfolio/portfolio-7-df_smartfactory/), [Daewoong Foundation](https://ugoakpudo.com//talks/Talk-6-Hackaton/), [Pyung Hwa Industry Co., Ltd., Korea](https://ugoakpudo.com//portfolio/portfolio-4-FEA/), etc.
+🤝**Academic-industry engagments** with [Hanwa Systems Korea](https://ugoakpudo.com//talks/talk-3-RAM-Diesel/), [Instern Co. Ltd. Korea](https://ugoakpudo.com//publication/2015-10-01-paper-title-number-3), [ACADIC Canada](https://ugoakpudo.com//talks/talk-1-dataforpolicy/), [Daewoong Pharmaceuticals Korea](https://ugoakpudo.com//portfolio/portfolio-7-df_smartfactory/), [Daewoong Foundation](https://ugoakpudo.com//talks/Talk-6-Hackaton/), [Pyung Hwa Industry Co., Ltd., Korea](https://ugoakpudo.com//portfolio/portfolio-4-FEA/), etc.
 
 🏆Runner Up, **Daewoong Foundation AI & Big Data Hackathon** organised by Daewoong Foundation Korea (2021). *Proposal*: [**Smart Factory Automation: A correlation-based GA-DNN Model for Smart AC Monitoring and Control**](https://ugoakpudo.com//talks/Talk-6-Hackaton/)
 
