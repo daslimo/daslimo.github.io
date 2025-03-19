@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 ![bio](/images/venn.png){: .align-right width = "300px}
-Hi there!👋 **I am a Doctoral Researcher** at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers), Australia where I build human-understandable explanation frameworks for deep learning models. More specifically, I conduct research on 🔎**Explainable AI** for Visual Categorization tasks, 🔓**Deep learning** and 📝**Statistical modelling**. My work has been funded by the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems). I love music🎷, chess♟️ and a good workout🏋️ 
+Hi there!👋 **I am a Doctoral Researcher** at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers), Australia where I build human-understandable explanation frameworks for deep learning models. More specifically, I conduct research on 🔎**Explainable AI** for Visual Categorization tasks, 🔓**Computer Vision** and 📝**Reliability Engineering**. My work has been funded by the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems). I love music🎷, chess♟️ and a good workout🏋️ 
 
 <!-- under the supervision of Profesors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis).  -->
 
 
 Higlights
 ======
-🚀**H-Index:** 11
+🚀**H-Index:** 11 | **Citations:** 323 | **i10-index:** 14, **Number of Grants:** 4
 
 📝**Reviewer for:** [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [IEEE Transactions on Reliability](https://xplorestaging.ieee.org/xpl/aboutJournal.jsp?punumber=24), [IEEE Access](https://ieeeaccess.ieee.org/), etc.
 
@@ -33,6 +33,7 @@ CGPA: 4.50 out of 4.50
 
 🏋️**Best Paper Awards** at the [ICMR 2019, Jeju Island](http://icmr2019.ksme.or.kr/wp/) and [BK21 Four](http://icmr2019.ksme.or.kr/wp/) Korea.
 
+💎 [**Spotlight Alumnus**](https://www.facebook.com/story.php?story_fbid=4790260004360298&id=342942189092124&mibextid=wwXIfr&rdid=XjucpxLyiU5NvXAw), K-Water Academy, the educational and training division of K-water, South Korea's leading public enterprise for water resource management. 
 
 
 📢**Research Interests:** *Explainable AI, Deep Learning, Signal Processing, Image Processing, Pattern Recognition, Intelligent Monitoring, Condition-Based Maintenance, Object Detection, Computer Vision, Interdisciplinary Research, and their applications to Agriculture, Mechatronic and Mechanical Systems, Factories, Environment, and Health.*
