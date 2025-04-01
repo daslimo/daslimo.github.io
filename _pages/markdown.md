@@ -9,7 +9,7 @@ redirect_from:
 
 ## 2025
 
-* **[Mar. 2025]** A^{*} journal paper acceptance, IEEE Transactions on Neural Network and Learning Systems (TNNLS, IF: 10.4). *Read PrePrint* of [**TraNCE: Transformative Non-linear Concept Explainer for CNNs**](https://arxiv.org/html/2503.20230).
+* **[Mar. 2025]** A* journal paper acceptance, IEEE Transactions on Neural Network and Learning Systems (TNNLS, IF: 10.4). *Read PrePrint* of [**TraNCE: Transformative Non-linear Concept Explainer for CNNs**](https://arxiv.org/html/2503.20230).
 
 * **[Feb. 2025]** Served as an Invited Reviewer for the [2025 International Joint Conference on Neural Networks](https://2025.ijcnn.org/)
 
