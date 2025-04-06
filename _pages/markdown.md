@@ -21,7 +21,7 @@ redirect_from:
 
 * **[Jan. 2025]** Reviewed 2 papers for [IEEE Transactions on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24)
 
-
+ 
 ## 2024
 
 * **[Nov. 2024]** Presented 2 conference papers at the [2024 International Conference on Intelligent and Innovative Computing Applications (ICONIC)](https://mauricon.org/)
