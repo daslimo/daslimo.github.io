@@ -9,7 +9,13 @@ redirect_from:
 
 ## 2025
 
-* **[Mar. 2025]** A* journal paper acceptance, IEEE Transactions on Neural Network and Learning Systems (TNNLS, IF: 10.4). *Read PrePrint* of [**TraNCE: Transformative Non-linear Concept Explainer for CNNs**](https://arxiv.org/html/2503.20230).
+* **[Apr. 2025]** Invitation to present "***SeeFinish*: Intuitive Concept Explanation Taxonomy for CNNs in Visual Categorization Tasks**" in fulfilment of Griffith University's Thesis and Candidature Review Milestone (TCRM) requirement.
+
+* **[Apr. 2025]** Invitation to present "***Seeing is Believing*: Bridging Cognition and CNNs for Contrastive Concept Explanation with Axiomatic Foundations**" at the [*5th Griffith University ECR Cross-Institute Symposium*](https://gcisymp.org/), aimed at fostering collaboration among research institutes at Griffith University.
+
+* **[Mar. 2025]** A* Journal Major Revision Invitation, [IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI, Impact factor: 20.8)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
+
+* **[Mar. 2025]** A* journal paper acceptance, IEEE Transactions on Neural Network and Learning Systems (TNNLS, Impact factor: 10.2). *Read PrePrint* of [**TraNCE: Transformative Non-linear Concept Explainer for CNNs**](https://arxiv.org/html/2503.20230).
 
 * **[Feb. 2025]** Served as an Invited Reviewer for the [2025 International Joint Conference on Neural Networks](https://2025.ijcnn.org/)
 
