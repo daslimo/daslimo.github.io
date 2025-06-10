@@ -15,7 +15,7 @@ Hi there!👋 **I am a Doctoral Researcher** at [The School of Engineering and B
 
 Higlights
 ======
-🚀**H-Index:** 11 | **Citations:** 323 | **i10-index:** 14, **Number of Grants:** 4
+🚀**H-Index:** 12 | **Citations:** 323 | **i10-index:** 14, **Number of Grants:** 4
 
 📝**Reviewer for:** [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [IEEE Transactions on Reliability](https://xplorestaging.ieee.org/xpl/aboutJournal.jsp?punumber=24), [IEEE Access](https://ieeeaccess.ieee.org/), etc.
 
@@ -64,9 +64,9 @@ Completed the five-year program with Second Class Upper Division. -->
 <!-- <a class="twitter-timeline" href="https://twitter.com/4thsonXhail?ref_src=twsrc%5Etfw">Tweets by 4thsonXhail</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7287946978724876288" height="1128" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<!-- <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7287946978724876288" height="1128" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> -->
 
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7335244680864899072?collapsed=1" height="668" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 <!-- Recent Blog Post
 ======
