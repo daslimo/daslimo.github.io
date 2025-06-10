@@ -9,11 +9,15 @@ redirect_from:
 
 ## 2025
 
-*🎉 **[June 2025]** Our A* journal article "**TraNCE: Transformative Nonlinear Concept Explainer for CNNs**", has just been published on IEEE Xplore. IEEE Transactions on Neural Network and Learning Systems (TNNLS, Impact factor: 10.2). [*Full read*](https://ieeexplore.ieee.org/document/10966440?source=authoralert)
+* 🎉 **[June 2025]** Our A* journal article "**TraNCE: Transformative Nonlinear Concept Explainer for CNNs**", has just been published on IEEE Xplore. IEEE Transactions on Neural Network and Learning Systems (TNNLS, Impact factor: 10.2). [*Full read*](https://ieeexplore.ieee.org/document/10966440?source=authoralert)
+**To cite**
+> U. E. Akpudo, Y. Gao, J. Zhou and A. Lewis, "TraNCE: Transformative Nonlinear Concept Explainer for CNNs," in IEEE Transactions on Neural Networks and Learning Systems, vol. 36, no. 6, pp. 10156-10170, June 2025, doi: 10.1109/TNNLS.2025.3556019.
+
+
 
 * **[June 2025]** Leader at the [**Emerging Industry Leaders Program**](https://www.linkedin.com/posts/ugoakpudo_eilp2025-griffitheilp-emergingleardergriffith-activity-7333600655195938816-mj21?utm_source=share&utm_medium=member_desktop&rcm=ACoAADP0mLoB1veYXR36V5iNoCY7bhm8A5MoqOI) hosted by Griffith University and sponsored by Microsoft. 
 
-*🎉 **[June 2025]** Our A* journal article titled "**CoPISan: Contrastive Perceptual Inference and Sanity Checks for Concept-based CNN Explanations**" has been fully acceptedby [IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI, Impact factor: 20.8)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
+* 🎉 **[June 2025]** Our A* journal article titled "**CoPISan: Contrastive Perceptual Inference and Sanity Checks for Concept-based CNN Explanations**" has been fully acceptedby [IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI, Impact factor: 20.8)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 
 * **[Apr. 2025]** Invitation to present "***SeeFinish*: Intuitive Concept Explanation Taxonomy for CNNs in Visual Categorization Tasks**" in fulfilment of Griffith University's Thesis and Candidature Review Milestone (TCRM) requirement.
 
