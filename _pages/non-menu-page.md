@@ -1,20 +1,110 @@
 ---
 permalink: /non-menu-page/
-title: "Page not in menu"
+# title: "Page not in menu"
 author_profile: true
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
 ---
+# 🎙️ [The Fourth Dimension]
 
-![bio](/images/venn.png){: .align-right width = "300px}
-Hi there!👋 **I am a Doctoral Researcher** at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers), Australia where I build human-understandable explanation frameworks for deep learning models. More specifically, I conduct research on 🔎**Explainable AI** for Visual Categorization tasks, 🔓**Computer Vision** and 📝**Reliability Engineering**. My work has been funded by the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems). I've made significant contributions to both fundamental theories and applied research that can solve important industrial problems, and published in prestigious journals and conferences, including:
-- IEEE Transactions on Pattern Analysis and Machine Intelligence
-- IEEE Transactions on Neural Networks and Learning Systems
-- IEEE Access
-- Journal of Mechanical Science and Technology
-- International Conference on Multimedia and Expo (ICME)
-- Data for Policy, etc.
+_A podcast exploring purpose, career, and global opportunities to tech trends, AI, and real-life experiences in diaspora._
+
+---
+
+## 👋 Welcome  
+Welcome to **The Fourth Dimension**, where we bring you authentic conversations, bold insights, and untold stories.  
+Our mission is simple: **spark meaningful dialogue and inspire change**.  
+
+---
+
+## 📢 Latest Episode  
+
+**Episode [#] — [Title]**  
+🗓️ Released: [Date]  
+🎧 Guest: [Guest Name]  
+
+> "[One-liner teaser from the episode]"  
+
+🎶 **Listen Here:**  
 
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7335244680864899072?collapsed=1" height="668" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<!-- YouTube Embed -->
+<iframe width="100%" height="315" 
+src="https://www.youtube.com/watch?v=ZSSSeRvRtQI" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>  
+
+<!-- Spotify Embed -->
+<iframe style="border-radius:12px" 
+src="https://open.spotify.com/embed/episode/your-episode-id?utm_source=generator" 
+width="100%" height="152" frameBorder="0" allowfullscreen="" 
+allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+---
+
+## 🎧 Past Episodes  
+
+- **Ep [#]: [Title]**  
+  <iframe style="border-radius:12px" 
+  src="https://open.spotify.com/embed/episode/your-old-episode-id" 
+  width="100%" height="152" frameBorder="0" allowfullscreen="" 
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>  
+
+- **Ep [#]: [Title]**  
+  <iframe style="border-radius:12px" 
+  src="https://open.spotify.com/embed/episode/your-old-episode-id" 
+  width="100%" height="152" frameBorder="0" allowfullscreen="" 
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>  
+
+👉 [Browse All Episodes](#)  
+
+---
+
+## 📲 Subscribe & Follow  
+
+Never miss an episode!  
+- [Spotify](#)  
+- [Apple Podcasts](#)  
+- [Google Podcasts](#)  
+- [YouTube](#)  
+
+---
+
+## 🔗 Social Highlights  
+
+Follow our latest updates and clips:  
+
+<!-- Twitter/X Embed -->
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Check out our latest podcast drop! 🚀🔥</p>
+— YourPodcast (@yourhandle) 
+<a href="https://twitter.com/yourhandle/status/1234567890">[date]</a>
+</blockquote>  
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+
+<!-- YouTube Embed -->
+<iframe width="100%" height="315" 
+src="https://www.youtube.com/watch?v=ZSSSeRvRtQI" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>  
+
+---
+
+## 🙌 About the Host  
+👤 **[Your Name]**  
+[Short 2–3 sentence bio: highlight your background, why you started the podcast, and what listeners can expect.]  
+
+---
+
+## 📬 Contact  
+Got feedback, questions, or want to be a guest?  
+📧 [youremail@example.com]  
+🌍 [Your Website/Social Links]  
+
+---
+
+### © [Year] [Podcast Name] — All rights reserved.
+
