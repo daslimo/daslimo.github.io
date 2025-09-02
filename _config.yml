@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "dark"
 # theme                    : jekyll-theme-minimal
 title                    : "Ugo's Homepage"
 title_separator          : "-"
@@ -33,14 +33,14 @@ author:
   email            : "akpudougo@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Akpudo,+U+E"
   googlescholar    : "https://scholar.google.com/citations?user=trarzuoAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-4221-5192"
-  semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  semantic         : "https://www.semanticscholar.org/author/Ugochukwu-Ejike-Akpudo/2352105099"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Akpudo+UE&cauthor_id=36832991"
   researchgate     : "https://www.researchgate.net/profile/Ugochukwu-Akpudo?ev=hdr_xprf"
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57215877066"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -73,7 +73,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : fourthsonugo
+  youtube          : theforth_dimension
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
@@ -285,6 +285,7 @@ defaults:
       share: true
 
 
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
