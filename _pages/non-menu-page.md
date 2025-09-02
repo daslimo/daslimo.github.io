@@ -34,23 +34,20 @@ Our mission is simple: **spark meaningful dialogue and inspire change**.
 <!-- YouTube Embed -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZSSSeRvRtQI?si=zVG3uIzcApR4wLzR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+---
 
-
-
-👉 [Browse All Episodes](#)  
-
-<iframe width="560" height="315" src="https://www.youtube.com/@theforth_dimension/playlists" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## 📲 Subscribe & Follow  
+🎥 **In this conversation, the speaker shares some serious generational truths on families and migration, explaining how deeply embedded these concepts are within us. He then shares how a dramatic DM he received relates to these themes, as he delivers his reaction from the studio. This  video will leave you pondering!**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dwvW6MFxI9I?si=iCRkUXb_n_R9aVvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-<blockquote class="twitter-tweet">
-<p lang="en" dir="ltr">Check out our latest podcast drop! 🚀🔥</p>
-— YourPodcast (@yourhandle) 
-<a href="https://x.com/4thsonXhail/status/1952469706335781088">[date]</a>
-</blockquote>  
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+👉 [Browse All Episodes 🚀🔥](https://www.youtube.com/@theforth_dimension)  
+
+## 📲 Subscribe, 🔔Like & Follow
+
+---
+<a class="twitter-timeline" href="https://x.com/4thsonXhail/status/1926736999303537117">Tweets by 4thsonXhail</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <!-- YouTube Embed
 <iframe width="100%" height="315" 
@@ -60,7 +57,7 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen></iframe>   -->
 
 ---
-
+<!-- 
 ## 🙌 About the Host  
 👤 **[Your Name]**  
 [Short 2–3 sentence bio: highlight your background, why you started the podcast, and what listeners can expect.]  
@@ -72,7 +69,7 @@ Got feedback, questions, or want to be a guest?
 📧 [youremail@example.com]  
 🌍 [Your Website/Social Links]  
 
----
+--- -->
 
-### © [Year] [Podcast Name] — All rights reserved.
+### © [2025] [The Fourth Dimension] — All rights reserved.
 

@@ -21,7 +21,7 @@ Hi there!👋 **I am a Doctoral Researcher** at [The School of Engineering and B
 
 Higlights
 ======
-🚀**H-Index:** 12 | **Citations:** 323 | **i10-index:** 14, **Number of Grants:** 4
+🚀**H-Index:** 12 | **Citations:** 375 | **i10-index:** 14, **Number of Grants:** 4
 
 📝**Reviewer for:** [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [IEEE Transactions on Reliability](https://xplorestaging.ieee.org/xpl/aboutJournal.jsp?punumber=24), [IEEE Access](https://ieeeaccess.ieee.org/), etc.
 
@@ -29,7 +29,7 @@ Higlights
 Thesis Topic: **A Sensor Fusion Approach for the Remaining Useful Life Prediction of Solenoid Pumps**.
 CGPA: 4.50 out of 4.50
 
- 🌱**Founder**, [**FS-NextGen Lounge**](https://www.youtube.com/@fourthsonugo): a community-based initiative for educating and promoting the use of AI and inclusive AI acceptance in Africa. We host live FREE workshops every month on AI and Machine Learning, scholarships, data analytics, knowledge sharing, etc.
+ 🌱**Founder**, [**FS-NextGen Lounge**](https://youtu.be/aEPqbiaS-tc): a community-based initiative for educating and promoting the use of AI and inclusive AI acceptance in Africa. We host live FREE workshops every month on AI and Machine Learning, scholarships, data analytics, knowledge sharing, etc.
 
 🤝**Academic-industry engagments** with [Hanwa Systems Korea](https://ugoakpudo.com//talks/talk-3-RAM-Diesel/), [Instern Co. Ltd. Korea](https://ugoakpudo.com//publication/2015-10-01-paper-title-number-3), [ACADIC Canada](https://ugoakpudo.com//talks/talk-1-dataforpolicy/), [Daewoong Pharmaceuticals Korea](https://ugoakpudo.com//portfolio/portfolio-7-df_smartfactory/), [Daewoong Foundation](https://ugoakpudo.com//talks/Talk-6-Hackaton/), [Pyung Hwa Industry Co., Ltd., Korea](https://ugoakpudo.com//portfolio/portfolio-4-FEA/), etc.
 
