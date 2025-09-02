@@ -7,15 +7,22 @@ redirect_from:
   - /markdown.html
 ---
 
-## 2025
+<!-- ## 2025 -->
+
+
+
+
+* 🎉 **[June 2025]** Our A* journal article titled "**CoPISan: Contrastive Perceptual Inference and Sanity Checks for Concept-based CNN Explanations**" has been published on [IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI, Impact factor: 20.8)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (Impact factor: 23.6). [*Full read*](https://ieeexplore.ieee.org/document/11024161)
+
+
 
 * **[June 2025]** Leader at the [**Emerging Industry Leaders Program**](https://ugoakpudo.com//talks/Talk-0-EILPnew/) hosted by Griffith University and sponsored by Microsoft. 
 
 
 * 🎉 **[June 2025]** Our A* journal article "**TraNCE: Transformative Nonlinear Concept Explainer for CNNs**", has just been published on IEEE Xplore. IEEE Transactions on Neural Network and Learning Systems (TNNLS, Impact factor: 10.2). [*Full read*](https://ieeexplore.ieee.org/document/10966440?source=authoralert)
 
-**To cite**
-> U. E. Akpudo, Y. Gao, J. Zhou and A. Lewis, "TraNCE: Transformative Nonlinear Concept Explainer for CNNs," in IEEE Transactions on Neural Networks and Learning Systems, vol. 36, no. 6, pp. 10156-10170, June 2025, doi: 10.1109/TNNLS.2025.3556019.
+ <!-- **To cite**
+> U. E. Akpudo, Y. Gao, J. Zhou and A. Lewis, "TraNCE: Transformative Nonlinear Concept Explainer for CNNs," in IEEE Transactions on Neural Networks and Learning Systems, vol. 36, no. 6, pp. 10156-10170, June 2025, doi: 10.1109/TNNLS.2025.3556019. -->
 
 
 * 🎉 **[June 2025]** Our A* journal article titled "**CoPISan: Contrastive Perceptual Inference and Sanity Checks for Concept-based CNN Explanations**" has been fully acceptedby [IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI, Impact factor: 20.8)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).

@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page/
+permalink: /podcast/
 # title: "🎙️The Fourth Dimension"
 author_profile: true
 redirect_from: 
@@ -46,7 +46,7 @@ Our mission is simple: **spark meaningful dialogue and inspire change**.
 ## 📲 Subscribe, 🔔Like & Follow
 
 ---
-<a class="twitter-timeline" href="https://x.com/4thsonXhail/status/1926736999303537117">Tweets by 4thsonXhail</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Waiting for a sign to do something is itself, the sign. Act on it already</p>&mdash; Dr Fourth (@4thsonXhail) <a href="https://twitter.com/4thsonXhail/status/1926736999303537117?ref_src=twsrc%5Etfw">May 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <!-- YouTube Embed
