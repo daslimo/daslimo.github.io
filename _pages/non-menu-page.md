@@ -1,16 +1,19 @@
 ---
 permalink: /non-menu-page/
-# title: "Page not in menu"
+# title: "🎙️The Fourth Dimension"
 author_profile: true
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
 ---
-# 🎙️ [The Fourth Dimension]
+<!-- # 🎙️ [The Fourth Dimension] -->
+
+<br/><img src='/images/BANNER YOUTUBE (4).png'>
 
 _A podcast exploring purpose, career, and global opportunities to tech trends, AI, and real-life experiences in diaspora._
 
----
+
+<!-- ---
 
 ## 👋 Welcome  
 Welcome to **The Fourth Dimension**, where we bring you authentic conversations, bold insights, and untold stories.  
@@ -24,72 +27,37 @@ Our mission is simple: **spark meaningful dialogue and inspire change**.
 🗓️ Released: [Date]  
 🎧 Guest: [Guest Name]  
 
-> "[One-liner teaser from the episode]"  
+> "[One-liner teaser from the episode]"   -->
 
-🎶 **Listen Here:**  
-
+🎥 **Watch as I question how the rapid advancements in AI will impact our society:**  
 
 <!-- YouTube Embed -->
-<iframe width="100%" height="315" 
-src="https://www.youtube.com/watch?v=ZSSSeRvRtQI" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZSSSeRvRtQI?si=zVG3uIzcApR4wLzR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!-- Spotify Embed -->
-<iframe style="border-radius:12px" 
-src="https://open.spotify.com/embed/episode/your-episode-id?utm_source=generator" 
-width="100%" height="152" frameBorder="0" allowfullscreen="" 
-allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
----
 
-## 🎧 Past Episodes  
-
-- **Ep [#]: [Title]**  
-  <iframe style="border-radius:12px" 
-  src="https://open.spotify.com/embed/episode/your-old-episode-id" 
-  width="100%" height="152" frameBorder="0" allowfullscreen="" 
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>  
-
-- **Ep [#]: [Title]**  
-  <iframe style="border-radius:12px" 
-  src="https://open.spotify.com/embed/episode/your-old-episode-id" 
-  width="100%" height="152" frameBorder="0" allowfullscreen="" 
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>  
 
 👉 [Browse All Episodes](#)  
 
----
+<iframe width="560" height="315" src="https://www.youtube.com/@theforth_dimension/playlists" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 📲 Subscribe & Follow  
 
-Never miss an episode!  
-- [Spotify](#)  
-- [Apple Podcasts](#)  
-- [Google Podcasts](#)  
-- [YouTube](#)  
-
 ---
 
-## 🔗 Social Highlights  
-
-Follow our latest updates and clips:  
-
-<!-- Twitter/X Embed -->
 <blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">Check out our latest podcast drop! 🚀🔥</p>
 — YourPodcast (@yourhandle) 
-<a href="https://twitter.com/yourhandle/status/1234567890">[date]</a>
+<a href="https://x.com/4thsonXhail/status/1952469706335781088">[date]</a>
 </blockquote>  
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
-<!-- YouTube Embed -->
+<!-- YouTube Embed
 <iframe width="100%" height="315" 
 src="https://www.youtube.com/watch?v=ZSSSeRvRtQI" 
 title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>  
+allowfullscreen></iframe>   -->
 
 ---
 
