@@ -14,6 +14,7 @@ redirect_from:
 <!-- ![[sub](/images/subscribe.png)](https://www.youtube.com/@theforth_dimension?sub_confirmation=1){: .align-center width = "30px}
  -->
 
+_A podcast exploring purpose, career, and global opportunities to tech trends, AI, and real-life experiences in diaspora._
 
 <p align="center">
   <a href="https://www.youtube.com/@theforth_dimension?sub_confirmation=1">
@@ -22,10 +23,11 @@ redirect_from:
 </p>
 
 
-_A podcast exploring purpose, career, and global opportunities to tech trends, AI, and real-life experiences in diaspora._
-
-
-![bio](/images/venn.png){: .align-right width = "300px}
+<p align="center">
+  <a href="https://forms.gle/UKx8kb9nuRcQNqnU6">
+    <img src="/images/guest3.png" alt="Alt text" width="300"/>
+  </a>
+</p>
 
 
 
@@ -57,7 +59,7 @@ Our mission is simple: **spark meaningful dialogue and inspire change**.
 
 ---
 
-👉 [Browse All Episodes 🚀🔥](https://www.youtube.com/@theforth_dimension)  
+# 👉 [Browse All Episodes 🚀🔥](https://www.youtube.com/@theforth_dimension)  
 
 ## 📲 Subscribe, 🔔Like & Follow
 
