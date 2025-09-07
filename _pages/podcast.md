@@ -25,7 +25,7 @@ _A podcast exploring purpose, career, and global opportunities to tech trends, A
 
 <p align="center">
   <a href="https://forms.gle/UKx8kb9nuRcQNqnU6">
-    <img src="/images/guest3.png" alt="Alt text" width="720"/>
+    <img src="/images/guest3.png" alt="Alt text" width="800"/>
   </a>
 </p>
 
