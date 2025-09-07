@@ -11,7 +11,16 @@ redirect_from:
 <br/><img src='/images/BANNER YOUTUBE (4).png'>
 
 
-![[sub](/images/subscribe.png)](https://www.youtube.com/@theforth_dimension?sub_confirmation=1){: .align-center width = "30px}
+<!-- ![[sub](/images/subscribe.png)](https://www.youtube.com/@theforth_dimension?sub_confirmation=1){: .align-center width = "30px}
+ -->
+
+
+<p align="center">
+  <a href="https://www.youtube.com/@theforth_dimension?sub_confirmation=1">
+    <img src="/images/subscribe.png" alt="Alt text" width="300"/>
+  </a>
+</p>
+
 
 _A podcast exploring purpose, career, and global opportunities to tech trends, AI, and real-life experiences in diaspora._
 
