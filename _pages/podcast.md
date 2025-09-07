@@ -8,9 +8,15 @@ redirect_from:
 ---
 <!-- # 🎙️ [The Fourth Dimension] -->
 
-<br/><img src='/images/BANNER YOUTUBE (4).png'>
+<!-- <br/><img src='/images/subscribe.png'> -->
+![https://www.youtube.com/@theforth_dimension?sub_confirmation=1](/images/subscribe.png){: .align-center width = "300px}
+
 
 _A podcast exploring purpose, career, and global opportunities to tech trends, AI, and real-life experiences in diaspora._
+
+
+<!-- ![bio](/images/venn.png){: .align-right width = "300px} -->
+
 
 
 <!-- ---
