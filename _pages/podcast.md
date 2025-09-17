@@ -31,6 +31,84 @@ _A podcast exploring purpose, career, and global opportunities to tech trends, A
 
 
 
+
+
+
+
+I waive rights to approve final edits or use of materials.
+I confirm any material I share is either original or appropriately licensed.
+
+
+
+
+<form id="customForm">
+  <label for="name">Brand Name</label><br>
+  <input type="text" id="name" name="name" required><br><br>
+
+  <label for="email">Email</label><br>
+  <input type="email" id="email" name="email" required><br><br>
+
+  <label for="session">Session Type</label><br>
+  <select id="session" name="session" required>
+    <option value="In-Person (Brisbane residents only!)">In-Person (Brisbane residents only!)</option>
+    <option value="Online via Google Meet">Online via Google Meet</option>
+    <option value="Live on Facebook/TikTok">Live on Facebook/TikTok</option>
+  </select><br><br>
+
+  <label for="topic">Topic of Interest</label><br>
+  <input type="topic" id="topic" name="topic" required><br><br>
+
+  <label>Select to confirm agreement</label><br>
+  <input type="checkbox" id="ai" name="topics" value="AI"><label for="ai">I consent to being audio and/or video recorded for the Fourth Dimension Podcast.</label><br>
+  <input type="checkbox" id="ml" name="topics" value="ML"><label for="ml">I authorize the use of my voice, likeness, and shared content across podcast platforms and promotional materials.</label><br>
+  <input type="checkbox" id="data" name="topics" value="Data"><label for="data">I understand I will not receive financial compensation.</label><br>
+  <input type="checkbox" id="dat2" name="topics" value="Data2"><label for="data2">I waive rights to approve final edits or use of materials.</label><br>
+  <input type="checkbox" id="dat3" name="topics" value="Data3"><label for="data3">I confirm any material I share is either original or appropriately licensed.</label><br><br>
+
+  <label for="name">Signature (Type your full legal name)</label><br>
+  <input type="text" id="name2" name="name2" required><br><br>
+
+  <label for="date">Preferred Date</label><br>
+  <input type="date" id="date" name="date" required><br><br>
+
+  <!-- <label for="message">Message</label><br>
+  <textarea id="message" name="message" rows="4"></textarea><br><br> -->
+
+  <button type="submit">Submit & Continue</button>
+</form>
+
+<script>
+  document.getElementById("customForm").addEventListener("submit", function(e) {
+    e.preventDefault();
+
+    // --- Collect form data
+    const topics = Array.from(document.querySelectorAll('input[name="topics"]:checked')).map(cb => cb.value);
+
+    const formData = {
+      name: document.getElementById("name").value,
+      email: document.getElementById("email").value,
+      session: document.getElementById("session").value,
+      session: document.getElementById("dat2").value,
+      session: document.getElementById("dat3").value,
+      session: document.getElementById("name2").value,
+      session: document.getElementById("date").value,
+      topics: topics.join(", "),
+      message: document.getElementById("message").value
+    };
+
+    // --- Send to Google Sheets (via Google Apps Script Web App)
+    fetch("https://forms.gle/UKx8kb9nuRcQNqnU6", {
+      method: "POST",
+      mode: "no-cors",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(formData)
+    });
+
+    // --- Redirect to Calendly
+    window.location.href = "https://calendly.com/yourusername/30min";
+  });
+</script>
+
 <!-- ---
 
 ## 👋 Welcome  
@@ -69,62 +147,6 @@ Our mission is simple: **spark meaningful dialogue and inspire change**.
 
 
 
-
-<form id="customForm">
-  <label for="name">Name</label><br>
-  <input type="text" id="name" name="name" required><br><br>
-
-  <label for="email">Email</label><br>
-  <input type="email" id="email" name="email" required><br><br>
-
-  <label for="session">Session Type</label><br>
-  <select id="session" name="session" required>
-    <option value="consultation">Consultation</option>
-    <option value="training">Training</option>
-    <option value="followup">Follow-up</option>
-  </select><br><br>
-
-  <label>Preferred Topics</label><br>
-  <input type="checkbox" id="ai" name="topics" value="AI">
-  <label for="ai">Artificial Intelligence</label><br>
-  <input type="checkbox" id="ml" name="topics" value="ML">
-  <label for="ml">Machine Learning</label><br>
-  <input type="checkbox" id="data" name="topics" value="Data">
-  <label for="data">Data Analytics</label><br><br>
-
-  <label for="message">Message</label><br>
-  <textarea id="message" name="message" rows="4"></textarea><br><br>
-
-  <button type="submit">Submit & Continue</button>
-</form>
-
-<script>
-  document.getElementById("customForm").addEventListener("submit", function(e) {
-    e.preventDefault();
-
-    // --- Collect form data
-    const topics = Array.from(document.querySelectorAll('input[name="topics"]:checked')).map(cb => cb.value);
-
-    const formData = {
-      name: document.getElementById("name").value,
-      email: document.getElementById("email").value,
-      session: document.getElementById("session").value,
-      topics: topics.join(", "),
-      message: document.getElementById("message").value
-    };
-
-    // --- Send to Google Sheets (via Google Apps Script Web App)
-    fetch("YOUR_GOOGLE_APPS_SCRIPT_WEBAPP_URL", {
-      method: "POST",
-      mode: "no-cors",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(formData)
-    });
-
-    // --- Redirect to Calendly
-    window.location.href = "https://calendly.com/yourusername/30min";
-  });
-</script>
 
 
 
