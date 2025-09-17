@@ -31,16 +31,7 @@ _A podcast exploring purpose, career, and global opportunities to tech trends, A
 
 
 
-
-
-
-
-I waive rights to approve final edits or use of materials.
-I confirm any material I share is either original or appropriately licensed.
-
-
-
-
+<!-- 
 <form id="customForm">
   <label for="name">Brand Name</label><br>
   <input type="text" id="name" name="name" required><br><br>
@@ -74,7 +65,7 @@ I confirm any material I share is either original or appropriately licensed.
   <!-- <label for="message">Message</label><br>
   <textarea id="message" name="message" rows="4"></textarea><br><br> -->
 
-  <button type="submit">Submit & Continue</button>
+  <!-- <button type="submit">Submit & Continue</button>
 </form>
 
 <script>
@@ -107,7 +98,7 @@ I confirm any material I share is either original or appropriately licensed.
     // --- Redirect to Calendly
     window.location.href = "https://calendly.com/yourusername/30min";
   });
-</script>
+</script> --> -->
 
 <!-- ---
 
@@ -134,6 +125,14 @@ Our mission is simple: **spark meaningful dialogue and inspire change**.
 
 🎥 **In this conversation, the speaker shares some serious generational truths on families and migration, explaining how deeply embedded these concepts are within us. He then shares how a dramatic DM he received relates to these themes, as he delivers his reaction from the studio. This  video will leave you pondering!**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dwvW6MFxI9I?si=iCRkUXb_n_R9aVvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+<p align="center">
+  <a href="https://www.youtube.com/@theforth_dimension?sub_confirmation=1">
+    <img src="/images/subscribe.png" alt="Alt text" width="300"/>
+  </a>
+</p>
 
 ---
 
