@@ -67,6 +67,69 @@ Our mission is simple: **spark meaningful dialogue and inspire change**.
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Waiting for a sign to do something is itself, the sign. Act on it already</p>&mdash; Dr Fourth (@4thsonXhail) <a href="https://twitter.com/4thsonXhail/status/1926736999303537117?ref_src=twsrc%5Etfw">May 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+
+
+
+<form id="customForm">
+  <label for="name">Name</label><br>
+  <input type="text" id="name" name="name" required><br><br>
+
+  <label for="email">Email</label><br>
+  <input type="email" id="email" name="email" required><br><br>
+
+  <label for="session">Session Type</label><br>
+  <select id="session" name="session" required>
+    <option value="consultation">Consultation</option>
+    <option value="training">Training</option>
+    <option value="followup">Follow-up</option>
+  </select><br><br>
+
+  <label>Preferred Topics</label><br>
+  <input type="checkbox" id="ai" name="topics" value="AI">
+  <label for="ai">Artificial Intelligence</label><br>
+  <input type="checkbox" id="ml" name="topics" value="ML">
+  <label for="ml">Machine Learning</label><br>
+  <input type="checkbox" id="data" name="topics" value="Data">
+  <label for="data">Data Analytics</label><br><br>
+
+  <label for="message">Message</label><br>
+  <textarea id="message" name="message" rows="4"></textarea><br><br>
+
+  <button type="submit">Submit & Continue</button>
+</form>
+
+<script>
+  document.getElementById("customForm").addEventListener("submit", function(e) {
+    e.preventDefault();
+
+    // --- Collect form data
+    const topics = Array.from(document.querySelectorAll('input[name="topics"]:checked')).map(cb => cb.value);
+
+    const formData = {
+      name: document.getElementById("name").value,
+      email: document.getElementById("email").value,
+      session: document.getElementById("session").value,
+      topics: topics.join(", "),
+      message: document.getElementById("message").value
+    };
+
+    // --- Send to Google Sheets (via Google Apps Script Web App)
+    fetch("YOUR_GOOGLE_APPS_SCRIPT_WEBAPP_URL", {
+      method: "POST",
+      mode: "no-cors",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(formData)
+    });
+
+    // --- Redirect to Calendly
+    window.location.href = "https://calendly.com/yourusername/30min";
+  });
+</script>
+
+
+
+
+
 <!-- YouTube Embed
 <iframe width="100%" height="315" 
 src="https://www.youtube.com/watch?v=ZSSSeRvRtQI" 
