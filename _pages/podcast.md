@@ -17,17 +17,20 @@ redirect_from:
 _A podcast exploring purpose, career, and global opportunities to tech trends, AI, and real-life experiences in diaspora._
 
 <p align="center">
+  <a href="https://forms.gle/UKx8kb9nuRcQNqnU6">
+    <img src="/images/Guest4.png" alt="Alt text" width="800"/>
+  </a>
+</p>
+
+
+<p align="center">
   <a href="https://www.youtube.com/@theforth_dimension?sub_confirmation=1">
     <img src="/images/subscribe.png" alt="Alt text" width="300"/>
   </a>
 </p>
 
 
-<p align="center">
-  <a href="https://forms.gle/UKx8kb9nuRcQNqnU6">
-    <img src="/images/Guest4.png" alt="Alt text" width="800"/>
-  </a>
-</p>
+
 
 
 
