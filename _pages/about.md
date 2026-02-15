@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ![bio](/images/venn.png){: .align-right width = "300px}
-Hi there!👋 **I am a Doctoral Researcher** at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers), Australia where I build human-understandable explanation frameworks for deep learning models. More specifically, I conduct research on 🔎**Explainable AI** for Visual Categorization tasks, 🔓**Computer Vision** and 📝**Reliability Engineering**. My work has been funded by the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems). I've made significant contributions to both fundamental theories and applied research that can solve important industrial problems, and published in prestigious journals and conferences, including:
+Hi there!👋 I am a **Lecturer** at [Engineering Institute of Technology](https://www.eit.edu.au/), an **Entrepreneur**, and a **Doctoral Researcher** at [The School of Engineering and Built Environment, Griffith University]("https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems/our-researchers). My work blends Explainable AI and Mechanical Engineering and I specialize in smart systems, predictive maintenance , and cognition‑inspired AI systems. More specifically, I conduct research on 🔎**Explainable AI** for Visual Categorization tasks, 🔓**Computer Vision** and 📝**Reliability Engineering**. My work has been funded by the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems). My academic contributions to both fundamental theories and applied research are published in prestigious journals and conferences, including:
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (Impact Factor: 23.6)
 - IEEE Transactions on Neural Networks and Learning Systems (Impact Factor: 10.2)
 - International Conference on Multimedia and Expo (ICME), CORE A*, etc.
@@ -20,9 +20,9 @@ Hi there!👋 **I am a Doctoral Researcher** at [The School of Engineering and B
 
 Higlights
 ======
-🚀**H-Index:** 12 | **Citations:** 375 | **i10-index:** 14, **Number of Grants:** 4
+🚀**H-Index:** 13 | **Citations:** 430 | **i10-index:** 15, **Number of Grants:** 4
 
-📝**Reviewer for:** [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [IEEE Transactions on Reliability](https://xplorestaging.ieee.org/xpl/aboutJournal.jsp?punumber=24), [IEEE Access](https://ieeeaccess.ieee.org/), etc.
+📝**Reviewer for:** [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [IEEE Transactions on Reliability](https://xplorestaging.ieee.org/xpl/aboutJournal.jsp?punumber=24), [IEEE ICME](https://2026.ieeeicme.org/), [IEEE Access](https://ieeeaccess.ieee.org/), etc.
 
 🏆**Excellent Thesis Award** *awarded by Kumoh National Institute of Technology, Korea (2021)*.
 Thesis Topic: **A Sensor Fusion Approach for the Remaining Useful Life Prediction of Solenoid Pumps**.
@@ -46,7 +46,7 @@ CGPA: 4.50 out of 4.50
 
 Education
 ======			
-🌍**PhD, Artificial Intelligence**, *Griffith University* (2022 - *current*)
+🌍**PhD, Artificial Intelligence**, *Griffith University* (2022 - 2026)
 
 
 <!-- Engaged in full-time research on Explainable AI for Visual Categorization tasks at the [ARC Research Hub for Driving Farming Productivity and Disease Prevention](https://www.griffith.edu.au/griffith-sciences/farming-productivity) and the [Institute for Integrated and Intelligent Systems (IIIS)](https://www.griffith.edu.au/griffith-sciences/school-information-communication-technology/institute-integrated-intelligent-systems) under the supervision of Profesors [Yongsheng Gao](https://experts.griffith.edu.au/19112-yongsheng-gao), [Jun Zhou](https://experts.griffith.edu.au/7205-jun-zhou), and [Andrew Lewis](https://experts.griffith.edu.au/7601-andrew-lewis).  -->

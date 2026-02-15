@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Lecturer, Engineering Institute of Technology"
 collection: teaching
-type: "Undergraduate course"
+type: "Masters course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "EIT, Brisbance Campus"
+date: 2026-01-01
+location: "Brisbance City, Queensland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I deliver instruction and support in engineering and technology programs, guiding students through practical and theoretical aspects of Mechanical Engineering. I facilitate workshops, tutorials, and project-based learning, helping students develop applied problem-solving skills and technical proficiency in tools like MATLAB and Python. My teaching emphasize real-world applications, fostering critical thinking, collaborative learning, and professional readiness. In detail, I do the following:
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
+* Teaching-focused Lecturer in Mechanical Engineering committed to high-quality, student-centred learning
+* Deliver engaging postgraduate teaching across core mechanical engineering subjects
+* Design and enhance curriculum aligned with accreditation standards and industry needs
+* Apply active learning, practical laboratories, and engineering software to connect theory with practice
+* Supervise postgraduate projects and contribute to course coordination and teaching innovation

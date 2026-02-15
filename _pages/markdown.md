@@ -9,6 +9,22 @@ redirect_from:
 
 <!-- ## 2025 -->
 
+* **[Feb 2026]** Launched a partnership with one of Australia's emerging NDIS Service Providers.
+
+* **[Jan 2026]** Employed as a Lecturer at The [Engineering Institute of Technology, Australia](https://www.eit.edu.au/)
+
+* **[Jan 2026]** Served as an Invited Reviewer for the [IEEE International Conference on Multimedia and Expo 2026](https://2026.ieeeicme.org/)
+
+## 2025
+
+
+
+* **[Dec 2025]** Submitted manuscript "_A Technical Survey of Explainability and Taxonomy in Visual Categorization: Methods, Desiderata, and Axioms_," for publication in **ACM Computing Surveys**(Impact factor: 23.8).
+
+* **[Dec 2025]** Appointed as The Secretary, 2026 Electoral Commitee, [Nwannedinamba Queensland](https://www.facebook.com/NwannedinambaQueensland/)
+
+
+* **[Nov 2025]** Employed as the HDR Careers Project Officer at Griffith Careers, Griffith University.
 
 
 

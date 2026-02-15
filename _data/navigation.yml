@@ -16,14 +16,14 @@ main:
   - title: "Projects"
     url: /portfolio/
 
-  - title: "Talks/Engagements"
+  - title: "Talks"
     url: /talks/    
 
   - title: "Podcast"
     url: /podcast/
 
-  # - title: "Teaching"
-  #   url: /teaching/  
+  - title: "Teaching"
+    url: /teaching/  
 
   # - title: "Blog"
   #   url: /year-archive/  
