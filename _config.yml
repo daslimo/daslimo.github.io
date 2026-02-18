@@ -12,7 +12,7 @@ site_theme               : "dark"
 # theme                    : jekyll-theme-minimal
 title                    : "Ugo's Homepage"
 title_separator          : "-"
-name                     : &name "Ugochukwu Ejike Akpudo"
+name                     : &name "Ugochukwu Ejike Akpudo, PhD"
 description              : &description "personal description"
 url                      : https://ugoakpudo.com/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
