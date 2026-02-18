@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "dark"
 # theme                    : jekyll-theme-minimal
-title                    : "Ugo's Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ugochukwu Ejike Akpudo, PhD"
 description              : &description "personal description"
@@ -23,12 +23,12 @@ repository               : "daslimo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  name             : "Ugochukwu Akpudo"
+  name             : "Ugochukwu Akpudo, PhD"
   avatar           : "bw_photo.jpg"
   pronouns         : # example: "she/her"  
-  bio              : "eXplainable AI | Research | Engineer"
+  bio              : "Lecturer | AI Engineer | Entrepreneur"
   location         : "Brisbane, Australia"
-  employer         : "Griffith University"
+  employer         : "Griffith | EIT"
   uri              : # URL
   email            : "akpudougo@gmail.com" 
 
